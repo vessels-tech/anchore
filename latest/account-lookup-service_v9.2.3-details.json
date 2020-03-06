@@ -1,0 +1,41 @@
+[
+    {
+        "analysis_status": "analyzed",
+        "analyzed_at": "2020-02-27T16:08:07Z",
+        "annotations": {},
+        "created_at": "2020-02-27T16:03:08Z",
+        "imageDigest": "sha256:25019efa41076d538e7608609ea03ac2ab557aebf7774c02c1d05a0cf3b52775",
+        "image_content": {
+            "metadata": {
+                "arch": "amd64",
+                "distro": "alpine",
+                "distro_version": "3.11.3",
+                "dockerfile_mode": "Actual",
+                "image_size": 264499200,
+                "layer_count": 9
+            }
+        },
+        "image_detail": [
+            {
+                "created_at": "2020-02-27T16:03:08Z",
+                "digest": "sha256:25019efa41076d538e7608609ea03ac2ab557aebf7774c02c1d05a0cf3b52775",
+                "dockerfile": "RlJPTSBub2RlOjEyLjE2LjAtYWxwaW5lIEFTIGJ1aWxkZXIKCldPUktESVIgL29wdC9hY2NvdW50LWxvb2t1cC1zZXJ2aWNlCgpSVU4gYXBrIGFkZCAtLW5vLWNhY2hlIC10IGJ1aWxkLWRlcGVuZGVuY2llcyBnaXQgbWFrZSBnY2MgZysrIHB5dGhvbiBsaWJ0b29sIGF1dG9jb25mIGF1dG9tYWtlIFwKICAgICYmIGNkICQobnBtIHJvb3QgLWcpL25wbSBcCiAgICAmJiBucG0gY29uZmlnIHNldCB1bnNhZmUtcGVybSB0cnVlIFwKICAgICYmIG5wbSBpbnN0YWxsIC1nIG5vZGUtZ3lwCgpDT1BZIHBhY2thZ2UuanNvbiBwYWNrYWdlLWxvY2suanNvbiogL29wdC9hY2NvdW50LWxvb2t1cC1zZXJ2aWNlLwpSVU4gbnBtIGluc3RhbGwKCkNPUFkgY29uZmlnIC9vcHQvYWNjb3VudC1sb29rdXAtc2VydmljZS9jb25maWcKQ09QWSBtaWdyYXRpb25zIC9vcHQvYWNjb3VudC1sb29rdXAtc2VydmljZS9taWdyYXRpb25zCkNPUFkgc2VlZHMgL29wdC9hY2NvdW50LWxvb2t1cC1zZXJ2aWNlL3NlZWRzCkNPUFkgc3JjIC9vcHQvYWNjb3VudC1sb29rdXAtc2VydmljZS9zcmMKCkZST00gbm9kZToxMi4xNi4wLWFscGluZQoKV09SS0RJUiAvb3B0L2FjY291bnQtbG9va3VwLXNlcnZpY2UKCkNPUFkgLS1mcm9tPWJ1aWxkZXIgL29wdC9hY2NvdW50LWxvb2t1cC1zZXJ2aWNlIC4KUlVOIG5wbSBwcnVuZSAtLXByb2R1Y3Rpb24KCiMgQ3JlYXRlIGVtcHR5IGxvZyBmaWxlICYgbGluayBzdGRvdXQgdG8gdGhlIGFwcGxpY2F0aW9uIGxvZyBmaWxlClJVTiBta2RpciAuL2xvZ3MgJiYgdG91Y2ggLi9sb2dzL2NvbWJpbmVkLmxvZwpSVU4gbG4gLXNmIC9kZXYvc3Rkb3V0IC4vbG9ncy9jb21iaW5lZC5sb2cKCkVYUE9TRSA0MDAyCkVYUE9TRSA0MDAxCkNNRCBbIm5wbSIsICJydW4iLCAic3RhcnQiXQo=",
+                "fulldigest": "localhost:5000/account-lookup-service@sha256:25019efa41076d538e7608609ea03ac2ab557aebf7774c02c1d05a0cf3b52775",
+                "fulltag": "localhost:5000/account-lookup-service:v9.2.3",
+                "imageDigest": "sha256:25019efa41076d538e7608609ea03ac2ab557aebf7774c02c1d05a0cf3b52775",
+                "imageId": "6f102056c09791caede44eefc0f630eac62a4a599482f39f840d8db121674dbb",
+                "last_updated": "2020-02-27T16:03:08Z",
+                "registry": "localhost:5000",
+                "repo": "account-lookup-service",
+                "tag": "v9.2.3",
+                "tag_detected_at": "2020-02-27T16:03:08Z",
+                "userId": "admin"
+            }
+        ],
+        "image_status": "active",
+        "image_type": "docker",
+        "last_updated": "2020-02-27T16:08:07Z",
+        "parentDigest": "sha256:25019efa41076d538e7608609ea03ac2ab557aebf7774c02c1d05a0cf3b52775",
+        "userId": "admin"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "analysis_status": "analyzed",
+        "analyzed_at": "2020-02-20T10:36:35Z",
+        "annotations": {},
+        "created_at": "2020-02-20T10:31:46Z",
+        "imageDigest": "sha256:a994251d4494c78e4349e858a516ec99c890018f4dcf4ad136e54371bd8d7690",
+        "image_content": {
+            "metadata": {
+                "arch": "amd64",
+                "distro": "alpine",
+                "distro_version": "3.11.3",
+                "dockerfile_mode": "Actual",
+                "image_size": 426854400,
+                "layer_count": 9
+            }
+        },
+        "image_detail": [
+            {
+                "created_at": "2020-02-20T10:31:46Z",
+                "digest": "sha256:a994251d4494c78e4349e858a516ec99c890018f4dcf4ad136e54371bd8d7690",
+                "dockerfile": "RlJPTSBub2RlOjEyLjE2LjAtYWxwaW5lIGFzIGJ1aWxkZXIKCldPUktESVIgL29wdC9jZW50cmFsLXNldHRsZW1lbnQKClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgLXQgYnVpbGQtZGVwZW5kZW5jaWVzIGdpdCBtYWtlIGdjYyBnKysgcHl0aG9uIGxpYnRvb2wgYXV0b2NvbmYgYXV0b21ha2UgXAogICAgJiYgY2QgJChucG0gcm9vdCAtZykvbnBtIFwKICAgICYmIG5wbSBjb25maWcgc2V0IHVuc2FmZS1wZXJtIHRydWUKCkNPUFkgcGFja2FnZS5qc29uIHBhY2thZ2UtbG9jay5qc29uKiAvb3B0L2NlbnRyYWwtc2V0dGxlbWVudC8KClJVTiBucG0gaW5zdGFsbAoKQ09QWSBjb25maWcgL29wdC9jZW50cmFsLXNldHRsZW1lbnQvY29uZmlnCkNPUFkgc3JjIC9vcHQvY2VudHJhbC1zZXR0bGVtZW50L3NyYwpDT1BZIFJFQURNRS5tZCAvb3B0L2NlbnRyYWwtc2V0dGxlbWVudAoKRlJPTSBub2RlOjEyLjE2LjAtYWxwaW5lCldPUktESVIgL29wdC9jZW50cmFsLXNldHRsZW1lbnQKCkNPUFkgLS1mcm9tPWJ1aWxkZXIgL29wdC9jZW50cmFsLXNldHRsZW1lbnQgLgoKUlVOIG5wbSBwcnVuZSAtLXByb2R1Y3Rpb24KCiMgQ3JlYXRlIGVtcHR5IGxvZyBmaWxlICYgbGluayBzdGRvdXQgdG8gdGhlIGFwcGxpY2F0aW9uIGxvZyBmaWxlClJVTiBta2RpciAuL2xvZ3MgJiYgdG91Y2ggLi9sb2dzL2NvbWJpbmVkLmxvZwpSVU4gbG4gLXNmIC9kZXYvc3Rkb3V0IC4vbG9ncy9jb21iaW5lZC5sb2cKCkVYUE9TRSAzMDA3CkNNRCBub2RlIHNyYy9zZXJ2ZXIuanMK",
+                "fulldigest": "localhost:5000/central-settlement@sha256:a994251d4494c78e4349e858a516ec99c890018f4dcf4ad136e54371bd8d7690",
+                "fulltag": "localhost:5000/central-settlement:v9.2.1",
+                "imageDigest": "sha256:a994251d4494c78e4349e858a516ec99c890018f4dcf4ad136e54371bd8d7690",
+                "imageId": "283c9d7ab645b2503b47b932b06e29ec134d572677f0657bae6a50e09776dacb",
+                "last_updated": "2020-02-20T10:31:46Z",
+                "registry": "localhost:5000",
+                "repo": "central-settlement",
+                "tag": "v9.2.1",
+                "tag_detected_at": "2020-02-20T10:31:46Z",
+                "userId": "admin"
+            }
+        ],
+        "image_status": "active",
+        "image_type": "docker",
+        "last_updated": "2020-02-20T10:36:35Z",
+        "parentDigest": "sha256:a994251d4494c78e4349e858a516ec99c890018f4dcf4ad136e54371bd8d7690",
+        "userId": "admin"
+    }
+]

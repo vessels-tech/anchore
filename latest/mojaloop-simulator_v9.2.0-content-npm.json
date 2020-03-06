@@ -1,0 +1,5126 @@
+{
+    "content": [
+        {
+            "license": "BSD-2-Clause",
+            "location": "/opt/yarn-v1.22.0/package.json",
+            "origin": "Unknown",
+            "package": "yarn",
+            "type": "NPM",
+            "version": "1.22.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/lib/log/node_modules/sqlite/package.json",
+            "origin": "Kriasoft (https://www.kriasoft.com)",
+            "package": "sqlite",
+            "type": "NPM",
+            "version": "3.0.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/lib/log/package.json",
+            "origin": "Matt Kingston, ModusBox Inc",
+            "package": "@internal/log",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/lib/randomphrase/package.json",
+            "origin": "Matt Kingston, ModusBox Inc.",
+            "package": "@internal/randomphrase",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/lib/router/package.json",
+            "origin": "Matt Kingston, ModusBox Inc.",
+            "package": "@internal/router",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/lib/rules-engine/package.json",
+            "origin": "Peres Nimarco, James Bush, ModusBox Inc.",
+            "package": "@internal/rules-engine",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/lib/validate/node_modules/ajv/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "ajv",
+            "type": "NPM",
+            "version": "6.7.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/lib/validate/node_modules/fast-deep-equal/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "fast-deep-equal",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/lib/validate/node_modules/json-schema-ref-parser/package.json",
+            "origin": "James Messinger (https://jamesmessinger.com)",
+            "package": "json-schema-ref-parser",
+            "type": "NPM",
+            "version": "6.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/lib/validate/node_modules/openapi-jsonschema-parameters/package.json",
+            "origin": "Joseph Spencer",
+            "package": "openapi-jsonschema-parameters",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/lib/validate/package.json",
+            "origin": "Matt Kingston, ModusBox Inc.",
+            "package": "@internal/validate",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/@koa/cors/package.json",
+            "origin": "fengmk2 (http://fengmk2.com)",
+            "package": "@koa/cors",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/@types/events/package.json",
+            "origin": "Unknown",
+            "package": "@types/events",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/@types/formidable/package.json",
+            "origin": "Unknown",
+            "package": "@types/formidable",
+            "type": "NPM",
+            "version": "1.0.31"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/@types/node/package.json",
+            "origin": "Unknown",
+            "package": "@types/node",
+            "type": "NPM",
+            "version": "13.7.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/abbrev/package.json",
+            "origin": "Isaac Z. Schlueter",
+            "package": "abbrev",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/accepts/package.json",
+            "origin": "Unknown",
+            "package": "accepts",
+            "type": "NPM",
+            "version": "1.3.7"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/ajv/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "ajv",
+            "type": "NPM",
+            "version": "6.11.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/ansi-regex/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "ansi-regex",
+            "type": "NPM",
+            "version": "2.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/any-promise/package.json",
+            "origin": "Kevin Beaty",
+            "package": "any-promise",
+            "type": "NPM",
+            "version": "1.3.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/aproba/package.json",
+            "origin": "Rebecca Turner",
+            "package": "aproba",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/are-we-there-yet/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org)",
+            "package": "are-we-there-yet",
+            "type": "NPM",
+            "version": "1.1.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/argparse/package.json",
+            "origin": "Unknown",
+            "package": "argparse",
+            "type": "NPM",
+            "version": "1.0.10"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/asn1/package.json",
+            "origin": "Joyent (joyent.com)",
+            "package": "asn1",
+            "type": "NPM",
+            "version": "0.2.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/assert-plus/package.json",
+            "origin": "Mark Cavage",
+            "package": "assert-plus",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/asynckit/package.json",
+            "origin": "Alex Indigo",
+            "package": "asynckit",
+            "type": "NPM",
+            "version": "0.4.0"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/node_modules/aws-sign2/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "aws-sign2",
+            "type": "NPM",
+            "version": "0.7.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/aws4/package.json",
+            "origin": "Michael Hart (http://github.com/mhart)",
+            "package": "aws4",
+            "type": "NPM",
+            "version": "1.9.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/balanced-match/package.json",
+            "origin": "Julian Gruber (http://juliangruber.com)",
+            "package": "balanced-match",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/bcrypt-pbkdf/package.json",
+            "origin": "Unknown",
+            "package": "bcrypt-pbkdf",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/brace-expansion/package.json",
+            "origin": "Julian Gruber (http://juliangruber.com)",
+            "package": "brace-expansion",
+            "type": "NPM",
+            "version": "1.1.11"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/brackets2dots/package.json",
+            "origin": "Wil Moore III",
+            "package": "brackets2dots",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/bytes/package.json",
+            "origin": "TJ Holowaychuk (http://tjholowaychuk.com)",
+            "package": "bytes",
+            "type": "NPM",
+            "version": "3.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/cache-content-type/package.json",
+            "origin": "dead_horse",
+            "package": "cache-content-type",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/call-me-maybe/package.json",
+            "origin": "Eric McCarthy (http://www.limulus.net/)",
+            "package": "call-me-maybe",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/node_modules/caseless/package.json",
+            "origin": "Mikeal Rogers",
+            "package": "caseless",
+            "type": "NPM",
+            "version": "0.12.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/chance/package.json",
+            "origin": "Victor Quinn",
+            "package": "chance",
+            "type": "NPM",
+            "version": "1.1.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/chance/packages/floating/package.json",
+            "origin": "Victor Quinn <mail@victorquinn.com>",
+            "package": "@chancejs/floating",
+            "type": "NPM",
+            "version": "2.2.5"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/chownr/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "chownr",
+            "type": "NPM",
+            "version": "1.1.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/clone/package.json",
+            "origin": "Paul Vorbach (http://paul.vorba.ch/)",
+            "package": "clone",
+            "type": "NPM",
+            "version": "2.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/co-body/package.json",
+            "origin": "Unknown",
+            "package": "co-body",
+            "type": "NPM",
+            "version": "5.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/co/package.json",
+            "origin": "Unknown",
+            "package": "co",
+            "type": "NPM",
+            "version": "4.6.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/code-point-at/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "code-point-at",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/combined-stream/package.json",
+            "origin": "Felix Geisend\u00f6rfer (http://debuggable.com/)",
+            "package": "combined-stream",
+            "type": "NPM",
+            "version": "1.0.8"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/concat-map/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "concat-map",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/console-control-strings/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "console-control-strings",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/content-disposition/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "content-disposition",
+            "type": "NPM",
+            "version": "0.5.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/content-type/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "content-type",
+            "type": "NPM",
+            "version": "1.0.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/cookies/node_modules/depd/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "depd",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/cookies/package.json",
+            "origin": "Jed Schmidt (http://jed.is)",
+            "package": "cookies",
+            "type": "NPM",
+            "version": "0.8.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/core-util-is/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "core-util-is",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/curry2/package.json",
+            "origin": "Wil Moore III",
+            "package": "curry2",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/dashdash/package.json",
+            "origin": "Trent Mick (http://trentm.com)",
+            "package": "dashdash",
+            "type": "NPM",
+            "version": "1.14.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/debug/package.json",
+            "origin": "TJ Holowaychuk",
+            "package": "debug",
+            "type": "NPM",
+            "version": "3.2.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/deep-equal/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "deep-equal",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/deep-extend/package.json",
+            "origin": "Viacheslav Lotsmanov",
+            "package": "deep-extend",
+            "type": "NPM",
+            "version": "0.6.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/delayed-stream/package.json",
+            "origin": "Felix Geisend\u00f6rfer (http://debuggable.com/)",
+            "package": "delayed-stream",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/delegates/package.json",
+            "origin": "Unknown",
+            "package": "delegates",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/depd/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "depd",
+            "type": "NPM",
+            "version": "1.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/destroy/package.json",
+            "origin": "Jonathan Ong (http://jongleberry.com)",
+            "package": "destroy",
+            "type": "NPM",
+            "version": "1.0.4"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/node_modules/detect-libc/package.json",
+            "origin": "Lovell Fuller",
+            "package": "detect-libc",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/src/node_modules/dotenv/package.json",
+            "origin": "Unknown",
+            "package": "dotenv",
+            "type": "NPM",
+            "version": "8.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/dotsplit.js/package.json",
+            "origin": "Wil Moore III",
+            "package": "dotsplit.js",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/ecc-jsbn/package.json",
+            "origin": "Jeremie Miller (http://jeremie.com/)",
+            "package": "ecc-jsbn",
+            "type": "NPM",
+            "version": "0.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/ee-first/package.json",
+            "origin": "Jonathan Ong (http://jongleberry.com)",
+            "package": "ee-first",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/encodeurl/package.json",
+            "origin": "Unknown",
+            "package": "encodeurl",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/error-inject/package.json",
+            "origin": "dead_horse",
+            "package": "error-inject",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/escape-html/package.json",
+            "origin": "Unknown",
+            "package": "escape-html",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/src/node_modules/esprima/package.json",
+            "origin": "Ariya Hidayat",
+            "package": "esprima",
+            "type": "NPM",
+            "version": "4.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/events/package.json",
+            "origin": "Irakli Gozalishvili (http://jeditoolkit.com)",
+            "package": "events",
+            "type": "NPM",
+            "version": "3.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/extend/package.json",
+            "origin": "Stefan Thomas (http://www.justmoon.net)",
+            "package": "extend",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/extsprintf/package.json",
+            "origin": "Unknown",
+            "package": "extsprintf",
+            "type": "NPM",
+            "version": "1.3.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/fast-bind/package.json",
+            "origin": "Nathan Zadoks",
+            "package": "fast-bind",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/fast-deep-equal/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "fast-deep-equal",
+            "type": "NPM",
+            "version": "3.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/fast-json-stable-stringify/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "fast-json-stable-stringify",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/node_modules/forever-agent/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "forever-agent",
+            "type": "NPM",
+            "version": "0.6.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/form-data/package.json",
+            "origin": "Felix Geisend\u00f6rfer (http://debuggable.com/)",
+            "package": "form-data",
+            "type": "NPM",
+            "version": "2.3.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/format-util/package.json",
+            "origin": "muji",
+            "package": "format-util",
+            "type": "NPM",
+            "version": "1.0.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/formidable/package.json",
+            "origin": "Unknown",
+            "package": "formidable",
+            "type": "NPM",
+            "version": "1.2.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/fresh/package.json",
+            "origin": "TJ Holowaychuk (http://tjholowaychuk.com)",
+            "package": "fresh",
+            "type": "NPM",
+            "version": "0.5.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/fs-minipass/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "fs-minipass",
+            "type": "NPM",
+            "version": "1.2.7"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/fs.realpath/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "fs.realpath",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/gauge/package.json",
+            "origin": "Rebecca Turner",
+            "package": "gauge",
+            "type": "NPM",
+            "version": "2.7.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/getpass/package.json",
+            "origin": "Alex Wilson",
+            "package": "getpass",
+            "type": "NPM",
+            "version": "0.1.7"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/glob/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "glob",
+            "type": "NPM",
+            "version": "7.1.6"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/har-schema/package.json",
+            "origin": "Ahmad Nassri (https://www.ahmadnassri.com/)",
+            "package": "har-schema",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/har-validator/package.json",
+            "origin": "Ahmad Nassri (https://www.ahmadnassri.com/)",
+            "package": "har-validator",
+            "type": "NPM",
+            "version": "5.1.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/has-unicode/package.json",
+            "origin": "Rebecca Turner",
+            "package": "has-unicode",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/hoek/package.json",
+            "origin": "Unknown",
+            "package": "hoek",
+            "type": "NPM",
+            "version": "6.1.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/http-assert/package.json",
+            "origin": "Unknown",
+            "package": "http-assert",
+            "type": "NPM",
+            "version": "1.4.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/http-errors/package.json",
+            "origin": "Jonathan Ong (http://jongleberry.com)",
+            "package": "http-errors",
+            "type": "NPM",
+            "version": "1.7.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/http-signature/package.json",
+            "origin": "Joyent, Inc",
+            "package": "http-signature",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/iconv-lite/package.json",
+            "origin": "Alexander Shtuchkin",
+            "package": "iconv-lite",
+            "type": "NPM",
+            "version": "0.4.24"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/ignore-walk/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "ignore-walk",
+            "type": "NPM",
+            "version": "3.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/inflation/package.json",
+            "origin": "Jonathan Ong (http://jongleberry.com)",
+            "package": "inflation",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/inflight/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "inflight",
+            "type": "NPM",
+            "version": "1.0.6"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/inherits/package.json",
+            "origin": "Unknown",
+            "package": "inherits",
+            "type": "NPM",
+            "version": "2.0.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/ini/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "ini",
+            "type": "NPM",
+            "version": "1.3.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/is-fullwidth-code-point/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-fullwidth-code-point",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/is-generator-function/package.json",
+            "origin": "Jordan Harband",
+            "package": "is-generator-function",
+            "type": "NPM",
+            "version": "1.0.7"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/is-typedarray/package.json",
+            "origin": "Hugh Kennedy (http://hughsk.io/)",
+            "package": "is-typedarray",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/isarray/package.json",
+            "origin": "Julian Gruber (http://juliangruber.com)",
+            "package": "isarray",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/isemail/package.json",
+            "origin": "Unknown",
+            "package": "isemail",
+            "type": "NPM",
+            "version": "3.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/isstream/package.json",
+            "origin": "Rod Vagg",
+            "package": "isstream",
+            "type": "NPM",
+            "version": "0.1.2"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/joi/package.json",
+            "origin": "Unknown",
+            "package": "joi",
+            "type": "NPM",
+            "version": "14.3.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/js-yaml/package.json",
+            "origin": "Vladimir Zapparov",
+            "package": "js-yaml",
+            "type": "NPM",
+            "version": "3.13.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/jsbn/package.json",
+            "origin": "Tom Wu",
+            "package": "jsbn",
+            "type": "NPM",
+            "version": "0.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/json-rules-engine/package.json",
+            "origin": "Cache Hamm",
+            "package": "json-rules-engine",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/json-schema-traverse/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "json-schema-traverse",
+            "type": "NPM",
+            "version": "0.4.1"
+        },
+        {
+            "license": "Unknown",
+            "location": "/src/node_modules/json-schema/package.json",
+            "origin": "Kris Zyp",
+            "package": "json-schema",
+            "type": "NPM",
+            "version": "0.2.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/json-stringify-safe/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me)",
+            "package": "json-stringify-safe",
+            "type": "NPM",
+            "version": "5.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/jsprim/package.json",
+            "origin": "Unknown",
+            "package": "jsprim",
+            "type": "NPM",
+            "version": "1.4.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/keygrip/package.json",
+            "origin": "Unknown",
+            "package": "keygrip",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/koa-body/package.json",
+            "origin": "Daryl Lau (https://github.com/dlau)",
+            "package": "koa-body",
+            "type": "NPM",
+            "version": "4.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/koa-compose/package.json",
+            "origin": "Unknown",
+            "package": "koa-compose",
+            "type": "NPM",
+            "version": "4.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/koa-convert/node_modules/koa-compose/package.json",
+            "origin": "Unknown",
+            "package": "koa-compose",
+            "type": "NPM",
+            "version": "3.2.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/koa-convert/package.json",
+            "origin": "gyson",
+            "package": "koa-convert",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/koa/node_modules/debug/package.json",
+            "origin": "TJ Holowaychuk",
+            "package": "debug",
+            "type": "NPM",
+            "version": "3.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/koa/node_modules/ms/package.json",
+            "origin": "Unknown",
+            "package": "ms",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/koa/package.json",
+            "origin": "Unknown",
+            "package": "koa",
+            "type": "NPM",
+            "version": "2.11.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/lodash.isobjectlike/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash.isobjectlike",
+            "type": "NPM",
+            "version": "4.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/media-typer/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "media-typer",
+            "type": "NPM",
+            "version": "0.3.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/mime-db/package.json",
+            "origin": "Unknown",
+            "package": "mime-db",
+            "type": "NPM",
+            "version": "1.43.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/mime-types/package.json",
+            "origin": "Unknown",
+            "package": "mime-types",
+            "type": "NPM",
+            "version": "2.1.26"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/minimatch/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me)",
+            "package": "minimatch",
+            "type": "NPM",
+            "version": "3.0.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/minimist/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "minimist",
+            "type": "NPM",
+            "version": "0.0.8"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/minipass/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "minipass",
+            "type": "NPM",
+            "version": "2.9.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/minizlib/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "minizlib",
+            "type": "NPM",
+            "version": "1.3.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/mkdirp/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "mkdirp",
+            "type": "NPM",
+            "version": "0.5.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/ms/package.json",
+            "origin": "Unknown",
+            "package": "ms",
+            "type": "NPM",
+            "version": "2.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/mustache/package.json",
+            "origin": "mustache.js Authors",
+            "package": "mustache",
+            "type": "NPM",
+            "version": "4.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/nan/package.json",
+            "origin": "Unknown",
+            "package": "nan",
+            "type": "NPM",
+            "version": "2.14.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/nan/tools/package.json",
+            "origin": "Unknown",
+            "package": "1to2",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/needle/package.json",
+            "origin": "Tom\u00e1s Pollak",
+            "package": "needle",
+            "type": "NPM",
+            "version": "2.3.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/negotiator/package.json",
+            "origin": "Unknown",
+            "package": "negotiator",
+            "type": "NPM",
+            "version": "0.6.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/node-fetch/package.json",
+            "origin": "David Frank",
+            "package": "node-fetch",
+            "type": "NPM",
+            "version": "2.6.0"
+        },
+        {
+            "license": "Unknown",
+            "location": "/src/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json",
+            "origin": "Unknown",
+            "package": "nw-pre-gyp-module-test",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/node-pre-gyp/package.json",
+            "origin": "Dane Springmeyer",
+            "package": "node-pre-gyp",
+            "type": "NPM",
+            "version": "0.11.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/nopt/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "nopt",
+            "type": "NPM",
+            "version": "4.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/npm-bundled/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npm-bundled",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/npm-normalize-package-bin/package.json",
+            "origin": "Isaac Z. Schlueter (https://izs.me)",
+            "package": "npm-normalize-package-bin",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/npm-packlist/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npm-packlist",
+            "type": "NPM",
+            "version": "1.4.8"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/npmlog/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npmlog",
+            "type": "NPM",
+            "version": "4.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/number-is-nan/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "number-is-nan",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/node_modules/oauth-sign/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "oauth-sign",
+            "type": "NPM",
+            "version": "0.9.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/object-assign/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "object-assign",
+            "type": "NPM",
+            "version": "4.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/object-hash/package.json",
+            "origin": "Scott Puleo",
+            "package": "object-hash",
+            "type": "NPM",
+            "version": "1.3.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/on-finished/package.json",
+            "origin": "Unknown",
+            "package": "on-finished",
+            "type": "NPM",
+            "version": "2.3.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/once/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "once",
+            "type": "NPM",
+            "version": "1.4.0"
+        },
+        {
+            "license": "Unknown",
+            "location": "/src/node_modules/only/package.json",
+            "origin": "TJ Holowaychuk",
+            "package": "only",
+            "type": "NPM",
+            "version": "0.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/ono/package.json",
+            "origin": "James Messinger (https://jamesmessinger.com)",
+            "package": "ono",
+            "type": "NPM",
+            "version": "4.0.11"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/openapi-types/package.json",
+            "origin": "Joseph Spencer",
+            "package": "openapi-types",
+            "type": "NPM",
+            "version": "1.3.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/os-homedir/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "os-homedir",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/os-tmpdir/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "os-tmpdir",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/osenv/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "osenv",
+            "type": "NPM",
+            "version": "0.1.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/parseurl/package.json",
+            "origin": "Unknown",
+            "package": "parseurl",
+            "type": "NPM",
+            "version": "1.3.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/path-is-absolute/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "path-is-absolute",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/performance-now/package.json",
+            "origin": "Braveg1rl",
+            "package": "performance-now",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/process-nextick-args/package.json",
+            "origin": "Unknown",
+            "package": "process-nextick-args",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/psl/package.json",
+            "origin": "Lupo Montero (https://lupomontero.com/)",
+            "package": "psl",
+            "type": "NPM",
+            "version": "1.7.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/punycode/package.json",
+            "origin": "Mathias Bynens (https://mathiasbynens.be/)",
+            "package": "punycode",
+            "type": "NPM",
+            "version": "2.1.1"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/qs/package.json",
+            "origin": "Unknown",
+            "package": "qs",
+            "type": "NPM",
+            "version": "6.5.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/raw-body/package.json",
+            "origin": "Jonathan Ong (http://jongleberry.com)",
+            "package": "raw-body",
+            "type": "NPM",
+            "version": "2.4.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/rc/node_modules/minimist/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "minimist",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "(BSD-2-Clause OR MIT OR Apache-2.0)",
+            "location": "/src/node_modules/rc/package.json",
+            "origin": "Dominic Tarr (dominictarr.com)",
+            "package": "rc",
+            "type": "NPM",
+            "version": "1.2.8"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.7"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/node_modules/request/package.json",
+            "origin": "Mikeal Rogers",
+            "package": "request",
+            "type": "NPM",
+            "version": "2.88.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/rimraf/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "rimraf",
+            "type": "NPM",
+            "version": "2.7.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/safe-buffer/package.json",
+            "origin": "Feross Aboukhadijeh (http://feross.org)",
+            "package": "safe-buffer",
+            "type": "NPM",
+            "version": "5.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/safer-buffer/package.json",
+            "origin": "Nikita Skovoroda (https://github.com/ChALkeR)",
+            "package": "safer-buffer",
+            "type": "NPM",
+            "version": "2.1.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/sax/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "sax",
+            "type": "NPM",
+            "version": "1.2.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/selectn/node_modules/debug/package.json",
+            "origin": "TJ Holowaychuk",
+            "package": "debug",
+            "type": "NPM",
+            "version": "2.6.9"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/selectn/node_modules/ms/package.json",
+            "origin": "Unknown",
+            "package": "ms",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/selectn/package.json",
+            "origin": "Wil Moore III",
+            "package": "selectn",
+            "type": "NPM",
+            "version": "1.1.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/semver/package.json",
+            "origin": "Unknown",
+            "package": "semver",
+            "type": "NPM",
+            "version": "5.7.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/set-blocking/package.json",
+            "origin": "Ben Coe",
+            "package": "set-blocking",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/setprototypeof/package.json",
+            "origin": "Wes Todd",
+            "package": "setprototypeof",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/signal-exit/package.json",
+            "origin": "Ben Coe",
+            "package": "signal-exit",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/sprintf-js/package.json",
+            "origin": "Alexandru Marasteanu (http://alexei.ro/)",
+            "package": "sprintf-js",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/sql-template-strings/package.json",
+            "origin": "Felix Becker",
+            "package": "sql-template-strings",
+            "type": "NPM",
+            "version": "2.2.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/sqlite/package.json",
+            "origin": "Kriasoft (https://www.kriasoft.com)",
+            "package": "sqlite",
+            "type": "NPM",
+            "version": "3.0.3"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/sqlite3/package.json",
+            "origin": "MapBox (https://mapbox.com/)",
+            "package": "sqlite3",
+            "type": "NPM",
+            "version": "4.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/sshpk/package.json",
+            "origin": "Joyent, Inc",
+            "package": "sshpk",
+            "type": "NPM",
+            "version": "1.16.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/statuses/package.json",
+            "origin": "Unknown",
+            "package": "statuses",
+            "type": "NPM",
+            "version": "1.5.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/string-width/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "string-width",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/strip-ansi/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "strip-ansi",
+            "type": "NPM",
+            "version": "3.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/strip-json-comments/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "strip-json-comments",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/tar/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "tar",
+            "type": "NPM",
+            "version": "4.4.13"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/toidentifier/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "toidentifier",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/topo/package.json",
+            "origin": "Unknown",
+            "package": "topo",
+            "type": "NPM",
+            "version": "3.0.3"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/src/node_modules/tough-cookie/package.json",
+            "origin": "Jeremy Stashewsky",
+            "package": "tough-cookie",
+            "type": "NPM",
+            "version": "2.5.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/tsscmp/package.json",
+            "origin": "suryagh",
+            "package": "tsscmp",
+            "type": "NPM",
+            "version": "1.0.6"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/node_modules/tunnel-agent/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "tunnel-agent",
+            "type": "NPM",
+            "version": "0.6.0"
+        },
+        {
+            "license": "Unlicense",
+            "location": "/src/node_modules/tweetnacl/package.json",
+            "origin": "TweetNaCl-js contributors",
+            "package": "tweetnacl",
+            "type": "NPM",
+            "version": "0.14.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/type-is/package.json",
+            "origin": "Unknown",
+            "package": "type-is",
+            "type": "NPM",
+            "version": "1.6.18"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/unpipe/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "unpipe",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/src/node_modules/uri-js/package.json",
+            "origin": "Gary Court",
+            "package": "uri-js",
+            "type": "NPM",
+            "version": "4.2.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/util-deprecate/package.json",
+            "origin": "Nathan Rajlich (http://n8.io/)",
+            "package": "util-deprecate",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/uuid/package.json",
+            "origin": "Unknown",
+            "package": "uuid",
+            "type": "NPM",
+            "version": "3.4.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/vary/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "vary",
+            "type": "NPM",
+            "version": "1.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/verror/package.json",
+            "origin": "Unknown",
+            "package": "verror",
+            "type": "NPM",
+            "version": "1.10.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/wide-align/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "wide-align",
+            "type": "NPM",
+            "version": "1.1.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/wrappy/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "wrappy",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/src/node_modules/yallist/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "yallist",
+            "type": "NPM",
+            "version": "3.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/yamljs/package.json",
+            "origin": "Jeremy Faivre",
+            "package": "yamljs",
+            "type": "NPM",
+            "version": "0.3.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/src/node_modules/ylru/package.json",
+            "origin": "fengmk2",
+            "package": "ylru",
+            "type": "NPM",
+            "version": "1.2.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/src/package.json",
+            "origin": "Matt Kingston, ModusBox Inc.",
+            "package": "mojaloop-simulator",
+            "type": "NPM",
+            "version": "9.2.0"
+        },
+        {
+            "license": "Artistic-2.0",
+            "location": "/usr/local/lib/node_modules/npm/docs/package.json",
+            "origin": "Tanya Brassie <tanyabrassie@tanyascmachine2.home>",
+            "package": "npm-cli-docs",
+            "type": "NPM",
+            "version": "0.1.0"
+        },
+        {
+            "license": "(MIT OR Apache-2.0)",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/JSONStream/package.json",
+            "origin": "Dominic Tarr (http://bit.ly/dominictarr)",
+            "package": "JSONStream",
+            "type": "NPM",
+            "version": "1.3.5"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/abbrev/package.json",
+            "origin": "Isaac Z. Schlueter",
+            "package": "abbrev",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/agent-base/package.json",
+            "origin": "Nathan Rajlich (http://n8.io/)",
+            "package": "agent-base",
+            "type": "NPM",
+            "version": "4.3.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/agentkeepalive/package.json",
+            "origin": "fengmk2 (https://fengmk2.com)",
+            "package": "agentkeepalive",
+            "type": "NPM",
+            "version": "3.5.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ajv/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "ajv",
+            "type": "NPM",
+            "version": "5.5.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ansi-align/package.json",
+            "origin": "nexdrew",
+            "package": "ansi-align",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ansi-regex/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "ansi-regex",
+            "type": "NPM",
+            "version": "2.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ansi-styles/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "ansi-styles",
+            "type": "NPM",
+            "version": "3.2.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ansicolors/package.json",
+            "origin": "Thorsten Lorenz (thlorenz.com)",
+            "package": "ansicolors",
+            "type": "NPM",
+            "version": "0.3.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ansistyles/package.json",
+            "origin": "Thorsten Lorenz (thlorenz.com)",
+            "package": "ansistyles",
+            "type": "NPM",
+            "version": "0.1.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/aproba/package.json",
+            "origin": "Rebecca Turner",
+            "package": "aproba",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/archy/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "archy",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/are-we-there-yet/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/are-we-there-yet/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/are-we-there-yet/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org)",
+            "package": "are-we-there-yet",
+            "type": "NPM",
+            "version": "1.1.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/asap/package.json",
+            "origin": "Unknown",
+            "package": "asap",
+            "type": "NPM",
+            "version": "2.0.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/asn1/package.json",
+            "origin": "Joyent (joyent.com)",
+            "package": "asn1",
+            "type": "NPM",
+            "version": "0.2.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/assert-plus/package.json",
+            "origin": "Mark Cavage",
+            "package": "assert-plus",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/asynckit/package.json",
+            "origin": "Alex Indigo",
+            "package": "asynckit",
+            "type": "NPM",
+            "version": "0.4.0"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/aws-sign2/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "aws-sign2",
+            "type": "NPM",
+            "version": "0.7.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/aws4/package.json",
+            "origin": "Michael Hart (http://github.com/mhart)",
+            "package": "aws4",
+            "type": "NPM",
+            "version": "1.8.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/balanced-match/package.json",
+            "origin": "Julian Gruber (http://juliangruber.com)",
+            "package": "balanced-match",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/bcrypt-pbkdf/package.json",
+            "origin": "Unknown",
+            "package": "bcrypt-pbkdf",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "Artistic-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/bin-links/package.json",
+            "origin": "Mike Sherov",
+            "package": "bin-links",
+            "type": "NPM",
+            "version": "1.1.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/bluebird/package.json",
+            "origin": "Petka Antonov (http://github.com/petkaantonov/)",
+            "package": "bluebird",
+            "type": "NPM",
+            "version": "3.5.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/boxen/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "boxen",
+            "type": "NPM",
+            "version": "1.3.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/brace-expansion/package.json",
+            "origin": "Julian Gruber (http://juliangruber.com)",
+            "package": "brace-expansion",
+            "type": "NPM",
+            "version": "1.1.11"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/buffer-from/package.json",
+            "origin": "Unknown",
+            "package": "buffer-from",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/builtins/package.json",
+            "origin": "Unknown",
+            "package": "builtins",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/byline/package.json",
+            "origin": "John Hewson",
+            "package": "byline",
+            "type": "NPM",
+            "version": "5.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/byte-size/package.json",
+            "origin": "Lloyd Brookes",
+            "package": "byte-size",
+            "type": "NPM",
+            "version": "5.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cacache/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "cacache",
+            "type": "NPM",
+            "version": "12.0.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/call-limit/package.json",
+            "origin": "Rebecca Turner",
+            "package": "call-limit",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/camelcase/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "camelcase",
+            "type": "NPM",
+            "version": "4.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/capture-stack-trace/package.json",
+            "origin": "Vsevolod Strukchinsky (github.com/floatdrop)",
+            "package": "capture-stack-trace",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/caseless/package.json",
+            "origin": "Mikeal Rogers",
+            "package": "caseless",
+            "type": "NPM",
+            "version": "0.12.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/chalk/package.json",
+            "origin": "Unknown",
+            "package": "chalk",
+            "type": "NPM",
+            "version": "2.4.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/chownr/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "chownr",
+            "type": "NPM",
+            "version": "1.1.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ci-info/package.json",
+            "origin": "Thomas Watson Steen (https://twitter.com/wa7son)",
+            "package": "ci-info",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cidr-regex/package.json",
+            "origin": "silverwind",
+            "package": "cidr-regex",
+            "type": "NPM",
+            "version": "2.0.10"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cli-boxes/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "cli-boxes",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cli-columns/package.json",
+            "origin": "Shannon Moeller (http://shannonmoeller.com)",
+            "package": "cli-columns",
+            "type": "NPM",
+            "version": "3.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cli-table3/package.json",
+            "origin": "James Talmage",
+            "package": "cli-table3",
+            "type": "NPM",
+            "version": "0.5.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cliui/node_modules/ansi-regex/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "ansi-regex",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cliui/node_modules/strip-ansi/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "strip-ansi",
+            "type": "NPM",
+            "version": "4.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cliui/package.json",
+            "origin": "Ben Coe",
+            "package": "cliui",
+            "type": "NPM",
+            "version": "4.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/clone/package.json",
+            "origin": "Paul Vorbach (http://paul.vorba.ch/)",
+            "package": "clone",
+            "type": "NPM",
+            "version": "1.0.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cmd-shim/package.json",
+            "origin": "Unknown",
+            "package": "cmd-shim",
+            "type": "NPM",
+            "version": "3.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/co/package.json",
+            "origin": "Unknown",
+            "package": "co",
+            "type": "NPM",
+            "version": "4.6.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/code-point-at/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "code-point-at",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/color-convert/package.json",
+            "origin": "Heather Arthur",
+            "package": "color-convert",
+            "type": "NPM",
+            "version": "1.9.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/color-name/package.json",
+            "origin": "DY",
+            "package": "color-name",
+            "type": "NPM",
+            "version": "1.1.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/colors/package.json",
+            "origin": "Marak Squires",
+            "package": "colors",
+            "type": "NPM",
+            "version": "1.3.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/columnify/package.json",
+            "origin": "Tim Oxley",
+            "package": "columnify",
+            "type": "NPM",
+            "version": "1.5.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/combined-stream/package.json",
+            "origin": "Felix Geisend\u00f6rfer (http://debuggable.com/)",
+            "package": "combined-stream",
+            "type": "NPM",
+            "version": "1.0.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/concat-map/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "concat-map",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/concat-stream/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/concat-stream/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/concat-stream/package.json",
+            "origin": "Max Ogden",
+            "package": "concat-stream",
+            "type": "NPM",
+            "version": "1.6.2"
+        },
+        {
+            "license": "Unknown",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/config-chain/package.json",
+            "origin": "Dominic Tarr (http://dominictarr.com)",
+            "package": "config-chain",
+            "type": "NPM",
+            "version": "1.1.12"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/configstore/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "configstore",
+            "type": "NPM",
+            "version": "3.1.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/console-control-strings/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "console-control-strings",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/copy-concurrently/node_modules/aproba/package.json",
+            "origin": "Rebecca Turner",
+            "package": "aproba",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/copy-concurrently/node_modules/iferr/package.json",
+            "origin": "Nadav Ivgi",
+            "package": "iferr",
+            "type": "NPM",
+            "version": "0.1.5"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/copy-concurrently/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "copy-concurrently",
+            "type": "NPM",
+            "version": "1.0.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/core-util-is/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "core-util-is",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/create-error-class/package.json",
+            "origin": "Vsevolod Strukchinsky (github.com/floatdrop)",
+            "package": "create-error-class",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cross-spawn/node_modules/lru-cache/package.json",
+            "origin": "Isaac Z. Schlueter",
+            "package": "lru-cache",
+            "type": "NPM",
+            "version": "4.1.5"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cross-spawn/node_modules/yallist/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "yallist",
+            "type": "NPM",
+            "version": "2.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cross-spawn/package.json",
+            "origin": "IndigoUnited (http://indigounited.com)",
+            "package": "cross-spawn",
+            "type": "NPM",
+            "version": "5.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/crypto-random-string/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "crypto-random-string",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "Unknown",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/cyclist/package.json",
+            "origin": "Mathias Buus Madsen",
+            "package": "cyclist",
+            "type": "NPM",
+            "version": "0.2.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/dashdash/package.json",
+            "origin": "Trent Mick (http://trentm.com)",
+            "package": "dashdash",
+            "type": "NPM",
+            "version": "1.14.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/debug/node_modules/ms/package.json",
+            "origin": "Unknown",
+            "package": "ms",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/debug/package.json",
+            "origin": "TJ Holowaychuk",
+            "package": "debug",
+            "type": "NPM",
+            "version": "3.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/debuglog/package.json",
+            "origin": "Sam Roberts",
+            "package": "debuglog",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/decamelize/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "decamelize",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/decode-uri-component/package.json",
+            "origin": "Sam Verschueren (github.com/SamVerschueren)",
+            "package": "decode-uri-component",
+            "type": "NPM",
+            "version": "0.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/deep-extend/package.json",
+            "origin": "Viacheslav Lotsmanov",
+            "package": "deep-extend",
+            "type": "NPM",
+            "version": "0.5.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/defaults/package.json",
+            "origin": "Elijah Insua",
+            "package": "defaults",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/define-properties/package.json",
+            "origin": "Jordan Harband",
+            "package": "define-properties",
+            "type": "NPM",
+            "version": "1.1.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/delayed-stream/package.json",
+            "origin": "Felix Geisend\u00f6rfer (http://debuggable.com/)",
+            "package": "delayed-stream",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/delegates/package.json",
+            "origin": "Unknown",
+            "package": "delegates",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/detect-indent/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "detect-indent",
+            "type": "NPM",
+            "version": "5.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/detect-newline/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "detect-newline",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/dezalgo/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "dezalgo",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/dot-prop/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "dot-prop",
+            "type": "NPM",
+            "version": "4.2.0"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/dotenv/package.json",
+            "origin": "scottmotte",
+            "package": "dotenv",
+            "type": "NPM",
+            "version": "5.0.1"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/duplexer3/package.json",
+            "origin": "Conrad Pankoff (http://www.fknsrs.biz/)",
+            "package": "duplexer3",
+            "type": "NPM",
+            "version": "0.1.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/duplexify/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/duplexify/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/duplexify/package.json",
+            "origin": "Mathias Buus",
+            "package": "duplexify",
+            "type": "NPM",
+            "version": "3.6.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ecc-jsbn/package.json",
+            "origin": "Jeremie Miller (http://jeremie.com/)",
+            "package": "ecc-jsbn",
+            "type": "NPM",
+            "version": "0.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/editor/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "editor",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/encoding/package.json",
+            "origin": "Andris Reinman",
+            "package": "encoding",
+            "type": "NPM",
+            "version": "0.1.12"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/end-of-stream/package.json",
+            "origin": "Mathias Buus",
+            "package": "end-of-stream",
+            "type": "NPM",
+            "version": "1.4.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/env-paths/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "env-paths",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/err-code/package.json",
+            "origin": "IndigoUnited (http://indigounited.com)",
+            "package": "err-code",
+            "type": "NPM",
+            "version": "1.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/errno/package.json",
+            "origin": "Unknown",
+            "package": "errno",
+            "type": "NPM",
+            "version": "0.1.7"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/es-abstract/package.json",
+            "origin": "Jordan Harband (http://ljharb.codes)",
+            "package": "es-abstract",
+            "type": "NPM",
+            "version": "1.12.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/es-to-primitive/package.json",
+            "origin": "Jordan Harband",
+            "package": "es-to-primitive",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/es6-promise/package.json",
+            "origin": "Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)",
+            "package": "es6-promise",
+            "type": "NPM",
+            "version": "4.2.8"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/es6-promisify/package.json",
+            "origin": "Mike Hall",
+            "package": "es6-promisify",
+            "type": "NPM",
+            "version": "5.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/escape-string-regexp/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "escape-string-regexp",
+            "type": "NPM",
+            "version": "1.0.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/execa/node_modules/get-stream/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "get-stream",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/execa/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "execa",
+            "type": "NPM",
+            "version": "0.7.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/extend/package.json",
+            "origin": "Stefan Thomas (http://www.justmoon.net)",
+            "package": "extend",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/extsprintf/package.json",
+            "origin": "Unknown",
+            "package": "extsprintf",
+            "type": "NPM",
+            "version": "1.3.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fast-deep-equal/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "fast-deep-equal",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fast-json-stable-stringify/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "fast-json-stable-stringify",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/figgy-pudding/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "figgy-pudding",
+            "type": "NPM",
+            "version": "3.5.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/find-npm-prefix/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "find-npm-prefix",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/find-up/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "find-up",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/flush-write-stream/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/flush-write-stream/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/flush-write-stream/package.json",
+            "origin": "Mathias Buus (@mafintosh)",
+            "package": "flush-write-stream",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/forever-agent/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "forever-agent",
+            "type": "NPM",
+            "version": "0.6.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/form-data/package.json",
+            "origin": "Felix Geisend\u00f6rfer (http://debuggable.com/)",
+            "package": "form-data",
+            "type": "NPM",
+            "version": "2.3.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/from2/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/from2/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/from2/package.json",
+            "origin": "Hugh Kennedy (http://hughsk.io/)",
+            "package": "from2",
+            "type": "NPM",
+            "version": "2.3.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs-minipass/node_modules/minipass/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "minipass",
+            "type": "NPM",
+            "version": "2.9.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs-minipass/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "fs-minipass",
+            "type": "NPM",
+            "version": "1.2.7"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs-vacuum/package.json",
+            "origin": "Forrest L Norvell",
+            "package": "fs-vacuum",
+            "type": "NPM",
+            "version": "1.2.10"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs-write-stream-atomic/node_modules/iferr/package.json",
+            "origin": "Nadav Ivgi",
+            "package": "iferr",
+            "type": "NPM",
+            "version": "0.1.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs-write-stream-atomic/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs-write-stream-atomic/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs-write-stream-atomic/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "fs-write-stream-atomic",
+            "type": "NPM",
+            "version": "1.0.10"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/fs.realpath/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "fs.realpath",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/function-bind/package.json",
+            "origin": "Raynos <raynos2@gmail.com>",
+            "package": "function-bind",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/gauge/node_modules/aproba/package.json",
+            "origin": "Rebecca Turner",
+            "package": "aproba",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/gauge/node_modules/string-width/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "string-width",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/gauge/package.json",
+            "origin": "Rebecca Turner",
+            "package": "gauge",
+            "type": "NPM",
+            "version": "2.7.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/genfun/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "genfun",
+            "type": "NPM",
+            "version": "5.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/gentle-fs/node_modules/aproba/package.json",
+            "origin": "Rebecca Turner",
+            "package": "aproba",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/gentle-fs/node_modules/iferr/package.json",
+            "origin": "Nadav Ivgi",
+            "package": "iferr",
+            "type": "NPM",
+            "version": "0.1.5"
+        },
+        {
+            "license": "Artistic-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/gentle-fs/package.json",
+            "origin": "Mike Sherov",
+            "package": "gentle-fs",
+            "type": "NPM",
+            "version": "2.3.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/get-caller-file/package.json",
+            "origin": "Stefan Penner",
+            "package": "get-caller-file",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/get-stream/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "get-stream",
+            "type": "NPM",
+            "version": "4.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/getpass/package.json",
+            "origin": "Alex Wilson",
+            "package": "getpass",
+            "type": "NPM",
+            "version": "0.1.7"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/glob/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "glob",
+            "type": "NPM",
+            "version": "7.1.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/global-dirs/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "global-dirs",
+            "type": "NPM",
+            "version": "0.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/got/node_modules/get-stream/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "get-stream",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/got/package.json",
+            "origin": "Vsevolod Strukchinsky (floatdrop@gmail.com)",
+            "package": "got",
+            "type": "NPM",
+            "version": "6.7.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/graceful-fs/package.json",
+            "origin": "Unknown",
+            "package": "graceful-fs",
+            "type": "NPM",
+            "version": "4.2.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/har-schema/package.json",
+            "origin": "Ahmad Nassri (https://www.ahmadnassri.com/)",
+            "package": "har-schema",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/har-validator/package.json",
+            "origin": "Ahmad Nassri (https://www.ahmadnassri.com/)",
+            "package": "har-validator",
+            "type": "NPM",
+            "version": "5.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/has-flag/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "has-flag",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/has-symbols/package.json",
+            "origin": "Jordan Harband (http://ljharb.codes)",
+            "package": "has-symbols",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/has-unicode/package.json",
+            "origin": "Rebecca Turner",
+            "package": "has-unicode",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/has/package.json",
+            "origin": "Thiago de Arruda",
+            "package": "has",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/hosted-git-info/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org)",
+            "package": "hosted-git-info",
+            "type": "NPM",
+            "version": "2.8.5"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/http-cache-semantics/package.json",
+            "origin": "Kornel Lesi\u0144ski (https://kornel.ski/)",
+            "package": "http-cache-semantics",
+            "type": "NPM",
+            "version": "3.8.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/http-proxy-agent/package.json",
+            "origin": "Nathan Rajlich (http://n8.io/)",
+            "package": "http-proxy-agent",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/http-signature/package.json",
+            "origin": "Joyent, Inc",
+            "package": "http-signature",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/https-proxy-agent/package.json",
+            "origin": "Nathan Rajlich (http://n8.io/)",
+            "package": "https-proxy-agent",
+            "type": "NPM",
+            "version": "2.2.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/humanize-ms/package.json",
+            "origin": "dead-horse (http://deadhorse.me)",
+            "package": "humanize-ms",
+            "type": "NPM",
+            "version": "1.2.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/iconv-lite/package.json",
+            "origin": "Alexander Shtuchkin",
+            "package": "iconv-lite",
+            "type": "NPM",
+            "version": "0.4.23"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/iferr/package.json",
+            "origin": "Nadav Ivgi",
+            "package": "iferr",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ignore-walk/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "ignore-walk",
+            "type": "NPM",
+            "version": "3.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/import-lazy/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "import-lazy",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/imurmurhash/package.json",
+            "origin": "Jens Taylor (https://github.com/homebrewing)",
+            "package": "imurmurhash",
+            "type": "NPM",
+            "version": "0.1.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/infer-owner/package.json",
+            "origin": "Isaac Z. Schlueter (https://izs.me)",
+            "package": "infer-owner",
+            "type": "NPM",
+            "version": "1.0.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/inflight/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "inflight",
+            "type": "NPM",
+            "version": "1.0.6"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/inherits/package.json",
+            "origin": "Unknown",
+            "package": "inherits",
+            "type": "NPM",
+            "version": "2.0.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ini/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "ini",
+            "type": "NPM",
+            "version": "1.3.5"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/init-package-json/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "init-package-json",
+            "type": "NPM",
+            "version": "1.10.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/invert-kv/package.json",
+            "origin": "Sindre Sorhus (http://sindresorhus.com)",
+            "package": "invert-kv",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ip-regex/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "ip-regex",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ip/package.json",
+            "origin": "Fedor Indutny",
+            "package": "ip",
+            "type": "NPM",
+            "version": "1.1.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-callable/package.json",
+            "origin": "Jordan Harband (http://ljharb.codes)",
+            "package": "is-callable",
+            "type": "NPM",
+            "version": "1.1.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-ci/node_modules/ci-info/package.json",
+            "origin": "Thomas Watson Steen (https://twitter.com/wa7son)",
+            "package": "ci-info",
+            "type": "NPM",
+            "version": "1.6.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-ci/package.json",
+            "origin": "Thomas Watson Steen (https://twitter.com/wa7son)",
+            "package": "is-ci",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-cidr/package.json",
+            "origin": "silverwind",
+            "package": "is-cidr",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-date-object/package.json",
+            "origin": "Jordan Harband",
+            "package": "is-date-object",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-fullwidth-code-point/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-fullwidth-code-point",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-installed-globally/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-installed-globally",
+            "type": "NPM",
+            "version": "0.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-npm/package.json",
+            "origin": "Sindre Sorhus (http://sindresorhus.com)",
+            "package": "is-npm",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-obj/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-obj",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-path-inside/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-path-inside",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-redirect/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-redirect",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-regex/package.json",
+            "origin": "Jordan Harband",
+            "package": "is-regex",
+            "type": "NPM",
+            "version": "1.0.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-retry-allowed/package.json",
+            "origin": "Vsevolod Strukchinsky (github.com/floatdrop)",
+            "package": "is-retry-allowed",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-stream/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-stream",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-symbol/package.json",
+            "origin": "Jordan Harband",
+            "package": "is-symbol",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/is-typedarray/package.json",
+            "origin": "Hugh Kennedy (http://hughsk.io/)",
+            "package": "is-typedarray",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/isarray/package.json",
+            "origin": "Julian Gruber (http://juliangruber.com)",
+            "package": "isarray",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/isexe/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "isexe",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/isstream/package.json",
+            "origin": "Rod Vagg",
+            "package": "isstream",
+            "type": "NPM",
+            "version": "0.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/jsbn/package.json",
+            "origin": "Tom Wu",
+            "package": "jsbn",
+            "type": "NPM",
+            "version": "0.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/json-parse-better-errors/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "json-parse-better-errors",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/json-schema-traverse/package.json",
+            "origin": "Evgeny Poberezkin",
+            "package": "json-schema-traverse",
+            "type": "NPM",
+            "version": "0.3.1"
+        },
+        {
+            "license": "Unknown",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/json-schema/package.json",
+            "origin": "Kris Zyp",
+            "package": "json-schema",
+            "type": "NPM",
+            "version": "0.2.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/json-stringify-safe/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me)",
+            "package": "json-stringify-safe",
+            "type": "NPM",
+            "version": "5.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/jsonparse/package.json",
+            "origin": "Tim Caswell",
+            "package": "jsonparse",
+            "type": "NPM",
+            "version": "1.3.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/jsprim/package.json",
+            "origin": "Unknown",
+            "package": "jsprim",
+            "type": "NPM",
+            "version": "1.4.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/latest-version/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "latest-version",
+            "type": "NPM",
+            "version": "3.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lazy-property/package.json",
+            "origin": "Mikola Lysenko",
+            "package": "lazy-property",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lcid/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "lcid",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libcipm/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libcipm",
+            "type": "NPM",
+            "version": "4.0.7"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpm/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpm",
+            "type": "NPM",
+            "version": "3.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmaccess/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpmaccess",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmconfig/node_modules/find-up/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "find-up",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmconfig/node_modules/locate-path/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "locate-path",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmconfig/node_modules/p-limit/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "p-limit",
+            "type": "NPM",
+            "version": "2.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmconfig/node_modules/p-locate/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "p-locate",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmconfig/node_modules/p-try/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "p-try",
+            "type": "NPM",
+            "version": "2.2.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmconfig/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpmconfig",
+            "type": "NPM",
+            "version": "1.2.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmhook/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpmhook",
+            "type": "NPM",
+            "version": "5.0.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmorg/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpmorg",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmpublish/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpmpublish",
+            "type": "NPM",
+            "version": "1.1.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmsearch/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpmsearch",
+            "type": "NPM",
+            "version": "2.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpmteam/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpmteam",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/libnpx/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "libnpx",
+            "type": "NPM",
+            "version": "10.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/locate-path/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "locate-path",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lock-verify/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "lock-verify",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lockfile/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "lockfile",
+            "type": "NPM",
+            "version": "1.0.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._baseindexof/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._baseindexof",
+            "type": "NPM",
+            "version": "3.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._baseuniq/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._baseuniq",
+            "type": "NPM",
+            "version": "4.6.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._bindcallback/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._bindcallback",
+            "type": "NPM",
+            "version": "3.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._cacheindexof/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._cacheindexof",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._createcache/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._createcache",
+            "type": "NPM",
+            "version": "3.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._createset/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._createset",
+            "type": "NPM",
+            "version": "4.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._getnative/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._getnative",
+            "type": "NPM",
+            "version": "3.9.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash._root/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash._root",
+            "type": "NPM",
+            "version": "3.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash.clonedeep/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash.clonedeep",
+            "type": "NPM",
+            "version": "4.5.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash.restparam/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash.restparam",
+            "type": "NPM",
+            "version": "3.6.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash.union/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash.union",
+            "type": "NPM",
+            "version": "4.6.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash.uniq/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash.uniq",
+            "type": "NPM",
+            "version": "4.5.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lodash.without/package.json",
+            "origin": "John-David Dalton (http://allyoucanleet.com/)",
+            "package": "lodash.without",
+            "type": "NPM",
+            "version": "4.4.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lowercase-keys/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "lowercase-keys",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/lru-cache/package.json",
+            "origin": "Isaac Z. Schlueter",
+            "package": "lru-cache",
+            "type": "NPM",
+            "version": "5.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/make-dir/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "make-dir",
+            "type": "NPM",
+            "version": "1.3.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/make-fetch-happen/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "make-fetch-happen",
+            "type": "NPM",
+            "version": "5.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/meant/package.json",
+            "origin": "Daijiro Wachi",
+            "package": "meant",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/mem/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "mem",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/mime-db/package.json",
+            "origin": "Unknown",
+            "package": "mime-db",
+            "type": "NPM",
+            "version": "1.35.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/mime-types/package.json",
+            "origin": "Unknown",
+            "package": "mime-types",
+            "type": "NPM",
+            "version": "2.1.19"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/mimic-fn/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "mimic-fn",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/minimatch/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me)",
+            "package": "minimatch",
+            "type": "NPM",
+            "version": "3.0.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/minimist/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "minimist",
+            "type": "NPM",
+            "version": "0.0.8"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/minizlib/node_modules/minipass/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "minipass",
+            "type": "NPM",
+            "version": "2.9.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/minizlib/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "minizlib",
+            "type": "NPM",
+            "version": "1.3.3"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/mississippi/package.json",
+            "origin": "max ogden",
+            "package": "mississippi",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/mkdirp/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "mkdirp",
+            "type": "NPM",
+            "version": "0.5.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/move-concurrently/node_modules/aproba/package.json",
+            "origin": "Rebecca Turner",
+            "package": "aproba",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/move-concurrently/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "move-concurrently",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ms/package.json",
+            "origin": "Unknown",
+            "package": "ms",
+            "type": "NPM",
+            "version": "2.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/mute-stream/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "mute-stream",
+            "type": "NPM",
+            "version": "0.0.7"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/node-fetch-npm/package.json",
+            "origin": "David Frank",
+            "package": "node-fetch-npm",
+            "type": "NPM",
+            "version": "2.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/node-gyp/node_modules/nopt/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "nopt",
+            "type": "NPM",
+            "version": "3.0.6"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/node-gyp/node_modules/semver/package.json",
+            "origin": "Unknown",
+            "package": "semver",
+            "type": "NPM",
+            "version": "5.3.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/node-gyp/package.json",
+            "origin": "Nathan Rajlich (http://tootallnate.net)",
+            "package": "node-gyp",
+            "type": "NPM",
+            "version": "5.0.5"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/nopt/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "nopt",
+            "type": "NPM",
+            "version": "4.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/normalize-package-data/node_modules/resolve/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "resolve",
+            "type": "NPM",
+            "version": "1.10.0"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/normalize-package-data/package.json",
+            "origin": "Meryn Stol",
+            "package": "normalize-package-data",
+            "type": "NPM",
+            "version": "2.5.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-audit-report/package.json",
+            "origin": "Adam Baldwin",
+            "package": "npm-audit-report",
+            "type": "NPM",
+            "version": "1.3.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-bundled/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npm-bundled",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-cache-filename/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npm-cache-filename",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-install-checks/package.json",
+            "origin": "Robert Kowalski",
+            "package": "npm-install-checks",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "Artistic-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/package.json",
+            "origin": "Mike Sherov",
+            "package": "npm-lifecycle",
+            "type": "NPM",
+            "version": "3.1.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-logical-tree/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "npm-logical-tree",
+            "type": "NPM",
+            "version": "1.2.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-normalize-package-bin/package.json",
+            "origin": "Isaac Z. Schlueter (https://izs.me)",
+            "package": "npm-normalize-package-bin",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-package-arg/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npm-package-arg",
+            "type": "NPM",
+            "version": "6.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-packlist/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npm-packlist",
+            "type": "NPM",
+            "version": "1.4.7"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-pick-manifest/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "npm-pick-manifest",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-profile/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "npm-profile",
+            "type": "NPM",
+            "version": "4.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-registry-fetch/node_modules/safe-buffer/package.json",
+            "origin": "Feross Aboukhadijeh (http://feross.org)",
+            "package": "safe-buffer",
+            "type": "NPM",
+            "version": "5.2.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-registry-fetch/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "npm-registry-fetch",
+            "type": "NPM",
+            "version": "4.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-run-path/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "npm-run-path",
+            "type": "NPM",
+            "version": "2.0.2"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npm-user-validate/package.json",
+            "origin": "Robert Kowalski",
+            "package": "npm-user-validate",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/npmlog/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "npmlog",
+            "type": "NPM",
+            "version": "4.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/number-is-nan/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "number-is-nan",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/oauth-sign/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "oauth-sign",
+            "type": "NPM",
+            "version": "0.9.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/object-assign/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "object-assign",
+            "type": "NPM",
+            "version": "4.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/object-keys/package.json",
+            "origin": "Jordan Harband (http://ljharb.codes)",
+            "package": "object-keys",
+            "type": "NPM",
+            "version": "1.0.12"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/object.getownpropertydescriptors/package.json",
+            "origin": "Jordan Harband",
+            "package": "object.getownpropertydescriptors",
+            "type": "NPM",
+            "version": "2.0.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/once/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "once",
+            "type": "NPM",
+            "version": "1.4.0"
+        },
+        {
+            "license": "(WTFPL OR MIT)",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/opener/package.json",
+            "origin": "Domenic Denicola (https://domenic.me/)",
+            "package": "opener",
+            "type": "NPM",
+            "version": "1.5.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/os-homedir/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "os-homedir",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/os-locale/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "os-locale",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/os-tmpdir/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "os-tmpdir",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/osenv/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "osenv",
+            "type": "NPM",
+            "version": "0.1.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/p-finally/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "p-finally",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/p-limit/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "p-limit",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/p-locate/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "p-locate",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/p-try/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "p-try",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/package-json/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "package-json",
+            "type": "NPM",
+            "version": "4.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/pacote/node_modules/minipass/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "minipass",
+            "type": "NPM",
+            "version": "2.9.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/pacote/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "pacote",
+            "type": "NPM",
+            "version": "9.5.11"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/parallel-transform/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/parallel-transform/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/parallel-transform/package.json",
+            "origin": "Mathias Buus Madsen",
+            "package": "parallel-transform",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/path-exists/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "path-exists",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/path-is-absolute/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "path-is-absolute",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "(WTFPL OR MIT)",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/path-is-inside/package.json",
+            "origin": "Domenic Denicola (https://domenic.me)",
+            "package": "path-is-inside",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/path-key/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "path-key",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/path-parse/package.json",
+            "origin": "Javier Blanco",
+            "package": "path-parse",
+            "type": "NPM",
+            "version": "1.0.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/performance-now/package.json",
+            "origin": "Braveg1rl",
+            "package": "performance-now",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/pify/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "pify",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/prepend-http/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "prepend-http",
+            "type": "NPM",
+            "version": "1.0.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/process-nextick-args/package.json",
+            "origin": "Unknown",
+            "package": "process-nextick-args",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/promise-inflight/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "promise-inflight",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/promise-retry/node_modules/retry/package.json",
+            "origin": "Tim Kosch\u00fctzki (http://debuggable.com/)",
+            "package": "retry",
+            "type": "NPM",
+            "version": "0.10.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/promise-retry/package.json",
+            "origin": "IndigoUnited (http://indigounited.com)",
+            "package": "promise-retry",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "BSD",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/promzard/example/npm-init/package.json",
+            "origin": "Unknown",
+            "package": "npm-init",
+            "type": "NPM",
+            "version": "0.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/promzard/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "promzard",
+            "type": "NPM",
+            "version": "0.3.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/proto-list/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "proto-list",
+            "type": "NPM",
+            "version": "1.2.4"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/protoduck/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "protoduck",
+            "type": "NPM",
+            "version": "5.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/prr/package.json",
+            "origin": "Rod Vagg (https://github.com/rvagg)",
+            "package": "prr",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/pseudomap/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "pseudomap",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/psl/package.json",
+            "origin": "Lupo Montero",
+            "package": "psl",
+            "type": "NPM",
+            "version": "1.1.29"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/pump/package.json",
+            "origin": "Mathias Buus Madsen",
+            "package": "pump",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/pumpify/node_modules/pump/package.json",
+            "origin": "Mathias Buus Madsen",
+            "package": "pump",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/pumpify/package.json",
+            "origin": "Mathias Buus",
+            "package": "pumpify",
+            "type": "NPM",
+            "version": "1.5.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/punycode/package.json",
+            "origin": "Mathias Bynens (https://mathiasbynens.be/)",
+            "package": "punycode",
+            "type": "NPM",
+            "version": "1.4.1"
+        },
+        {
+            "license": "Unknown",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/qrcode-terminal/package.json",
+            "origin": "Unknown",
+            "package": "qrcode-terminal",
+            "type": "NPM",
+            "version": "0.12.0"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/qs/package.json",
+            "origin": "Unknown",
+            "package": "qs",
+            "type": "NPM",
+            "version": "6.5.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/query-string/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "query-string",
+            "type": "NPM",
+            "version": "6.8.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/qw/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "qw",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/rc/node_modules/minimist/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "minimist",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "(BSD-2-Clause OR MIT OR Apache-2.0)",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/rc/package.json",
+            "origin": "Dominic Tarr (dominictarr.com)",
+            "package": "rc",
+            "type": "NPM",
+            "version": "1.2.7"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/read-cmd-shim/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "read-cmd-shim",
+            "type": "NPM",
+            "version": "1.0.5"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/read-installed/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "read-installed",
+            "type": "NPM",
+            "version": "4.0.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/read-package-json/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "read-package-json",
+            "type": "NPM",
+            "version": "2.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/read-package-tree/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "read-package-tree",
+            "type": "NPM",
+            "version": "5.3.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/read/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "read",
+            "type": "NPM",
+            "version": "1.0.7"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "3.4.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/readdir-scoped-modules/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "readdir-scoped-modules",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/registry-auth-token/package.json",
+            "origin": "Espen Hovlandsdal",
+            "package": "registry-auth-token",
+            "type": "NPM",
+            "version": "3.3.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/registry-url/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "registry-url",
+            "type": "NPM",
+            "version": "3.1.0"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/request/package.json",
+            "origin": "Mikeal Rogers",
+            "package": "request",
+            "type": "NPM",
+            "version": "2.88.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/require-directory/package.json",
+            "origin": "Troy Goode (http://github.com/troygoode/)",
+            "package": "require-directory",
+            "type": "NPM",
+            "version": "2.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/require-main-filename/package.json",
+            "origin": "Ben Coe",
+            "package": "require-main-filename",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/resolve-from/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "resolve-from",
+            "type": "NPM",
+            "version": "4.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/retry/package.json",
+            "origin": "Tim Kosch\u00fctzki (http://debuggable.com/)",
+            "package": "retry",
+            "type": "NPM",
+            "version": "0.12.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/rimraf/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "rimraf",
+            "type": "NPM",
+            "version": "2.6.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/run-queue/node_modules/aproba/package.json",
+            "origin": "Rebecca Turner",
+            "package": "aproba",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/run-queue/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "run-queue",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/safe-buffer/package.json",
+            "origin": "Feross Aboukhadijeh (http://feross.org)",
+            "package": "safe-buffer",
+            "type": "NPM",
+            "version": "5.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/safer-buffer/package.json",
+            "origin": "Nikita Skovoroda (https://github.com/ChALkeR)",
+            "package": "safer-buffer",
+            "type": "NPM",
+            "version": "2.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/semver-diff/package.json",
+            "origin": "Sindre Sorhus (http://sindresorhus.com)",
+            "package": "semver-diff",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/semver/package.json",
+            "origin": "Unknown",
+            "package": "semver",
+            "type": "NPM",
+            "version": "5.7.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/set-blocking/package.json",
+            "origin": "Ben Coe",
+            "package": "set-blocking",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "(BSD-2-Clause OR MIT)",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sha/package.json",
+            "origin": "Unknown",
+            "package": "sha",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/shebang-command/package.json",
+            "origin": "Kevin Martensson (github.com/kevva)",
+            "package": "shebang-command",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/shebang-regex/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "shebang-regex",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/signal-exit/package.json",
+            "origin": "Ben Coe",
+            "package": "signal-exit",
+            "type": "NPM",
+            "version": "3.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/slide/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "slide",
+            "type": "NPM",
+            "version": "1.1.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/smart-buffer/package.json",
+            "origin": "Josh Glazebrook",
+            "package": "smart-buffer",
+            "type": "NPM",
+            "version": "4.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/socks-proxy-agent/node_modules/agent-base/package.json",
+            "origin": "Nathan Rajlich (http://n8.io/)",
+            "package": "agent-base",
+            "type": "NPM",
+            "version": "4.2.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/socks-proxy-agent/package.json",
+            "origin": "Nathan Rajlich (http://n8.io/)",
+            "package": "socks-proxy-agent",
+            "type": "NPM",
+            "version": "4.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/socks/package.json",
+            "origin": "Josh Glazebrook",
+            "package": "socks",
+            "type": "NPM",
+            "version": "2.3.3"
+        },
+        {
+            "license": "(WTFPL OR MIT)",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sorted-object/package.json",
+            "origin": "Domenic Denicola (https://domenic.me/)",
+            "package": "sorted-object",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sorted-union-stream/node_modules/from2/package.json",
+            "origin": "Hugh Kennedy (http://hughsk.io/)",
+            "package": "from2",
+            "type": "NPM",
+            "version": "1.3.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sorted-union-stream/node_modules/isarray/package.json",
+            "origin": "Julian Gruber (http://juliangruber.com)",
+            "package": "isarray",
+            "type": "NPM",
+            "version": "0.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sorted-union-stream/node_modules/readable-stream/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "1.1.14"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sorted-union-stream/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "0.10.31"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sorted-union-stream/package.json",
+            "origin": "Mathias Buus Madsen",
+            "package": "sorted-union-stream",
+            "type": "NPM",
+            "version": "2.1.3"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/spdx-correct/package.json",
+            "origin": "Kyle E. Mitchell (https://kemitchell.com)",
+            "package": "spdx-correct",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "CC-BY-3.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/spdx-exceptions/package.json",
+            "origin": "The Linux Foundation",
+            "package": "spdx-exceptions",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/spdx-expression-parse/package.json",
+            "origin": "Kyle E. Mitchell (http://kemitchell.com)",
+            "package": "spdx-expression-parse",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "CC0-1.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/spdx-license-ids/package.json",
+            "origin": "Shinnosuke Watanabe (https://github.com/shinnn)",
+            "package": "spdx-license-ids",
+            "type": "NPM",
+            "version": "3.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/split-on-first/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "split-on-first",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/sshpk/package.json",
+            "origin": "Joyent, Inc",
+            "package": "sshpk",
+            "type": "NPM",
+            "version": "1.14.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/ssri/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "ssri",
+            "type": "NPM",
+            "version": "6.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/stream-each/package.json",
+            "origin": "Mathias Buus (@mafintosh)",
+            "package": "stream-each",
+            "type": "NPM",
+            "version": "1.2.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/stream-iterate/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/stream-iterate/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/stream-iterate/package.json",
+            "origin": "Mathias Buus (@mafintosh)",
+            "package": "stream-iterate",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/stream-shift/package.json",
+            "origin": "Mathias Buus (@mafintosh)",
+            "package": "stream-shift",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/strict-uri-encode/package.json",
+            "origin": "Kevin M\u00e5rtensson (github.com/kevva)",
+            "package": "strict-uri-encode",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/string-width/node_modules/ansi-regex/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "ansi-regex",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "is-fullwidth-code-point",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/string-width/node_modules/strip-ansi/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "strip-ansi",
+            "type": "NPM",
+            "version": "4.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/string-width/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "string-width",
+            "type": "NPM",
+            "version": "2.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/stringify-package/package.json",
+            "origin": "Kat March\u00e1n",
+            "package": "stringify-package",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/strip-ansi/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "strip-ansi",
+            "type": "NPM",
+            "version": "3.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/strip-eof/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "strip-eof",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/strip-json-comments/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "strip-json-comments",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/supports-color/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "supports-color",
+            "type": "NPM",
+            "version": "5.4.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/tar/node_modules/minipass/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "minipass",
+            "type": "NPM",
+            "version": "2.9.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/tar/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "tar",
+            "type": "NPM",
+            "version": "4.4.13"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/term-size/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "term-size",
+            "type": "NPM",
+            "version": "1.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/text-table/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "text-table",
+            "type": "NPM",
+            "version": "0.2.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/through/package.json",
+            "origin": "Dominic Tarr (dominictarr.com)",
+            "package": "through",
+            "type": "NPM",
+            "version": "2.3.8"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/through2/node_modules/readable-stream/package.json",
+            "origin": "Unknown",
+            "package": "readable-stream",
+            "type": "NPM",
+            "version": "2.3.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/through2/node_modules/string_decoder/package.json",
+            "origin": "Unknown",
+            "package": "string_decoder",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/through2/package.json",
+            "origin": "Rod Vagg (https://github.com/rvagg)",
+            "package": "through2",
+            "type": "NPM",
+            "version": "2.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/timed-out/package.json",
+            "origin": "Vsevolod Strukchinsky",
+            "package": "timed-out",
+            "type": "NPM",
+            "version": "4.0.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/tiny-relative-date/package.json",
+            "origin": "Joseph Wynn (https://wildlyinaccurate.com/)",
+            "package": "tiny-relative-date",
+            "type": "NPM",
+            "version": "1.3.0"
+        },
+        {
+            "license": "BSD-3-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/tough-cookie/package.json",
+            "origin": "Jeremy Stashewsky",
+            "package": "tough-cookie",
+            "type": "NPM",
+            "version": "2.4.3"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/tunnel-agent/package.json",
+            "origin": "Mikeal Rogers (http://www.futurealoof.com)",
+            "package": "tunnel-agent",
+            "type": "NPM",
+            "version": "0.6.0"
+        },
+        {
+            "license": "Unlicense",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/tweetnacl/package.json",
+            "origin": "TweetNaCl-js contributors",
+            "package": "tweetnacl",
+            "type": "NPM",
+            "version": "0.14.5"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/typedarray/package.json",
+            "origin": "James Halliday (http://substack.net)",
+            "package": "typedarray",
+            "type": "NPM",
+            "version": "0.0.6"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/uid-number/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "uid-number",
+            "type": "NPM",
+            "version": "0.0.6"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/umask/package.json",
+            "origin": "Sam Mikes",
+            "package": "umask",
+            "type": "NPM",
+            "version": "1.1.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/unique-filename/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "unique-filename",
+            "type": "NPM",
+            "version": "1.1.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/unique-slug/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org)",
+            "package": "unique-slug",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/unique-string/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "unique-string",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/unpipe/package.json",
+            "origin": "Douglas Christopher Wilson",
+            "package": "unpipe",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/unzip-response/package.json",
+            "origin": "Vsevolod Strukchinsky (floatdrop@gmail.com)",
+            "package": "unzip-response",
+            "type": "NPM",
+            "version": "2.0.1"
+        },
+        {
+            "license": "BSD-2-Clause",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/update-notifier/package.json",
+            "origin": "Sindre Sorhus (https://sindresorhus.com)",
+            "package": "update-notifier",
+            "type": "NPM",
+            "version": "2.5.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/url-parse-lax/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "url-parse-lax",
+            "type": "NPM",
+            "version": "1.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/util-deprecate/package.json",
+            "origin": "Nathan Rajlich (http://n8.io/)",
+            "package": "util-deprecate",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/util-extend/package.json",
+            "origin": "Unknown",
+            "package": "util-extend",
+            "type": "NPM",
+            "version": "1.0.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/util-promisify/package.json",
+            "origin": "Unknown",
+            "package": "util-promisify",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/uuid/package.json",
+            "origin": "Unknown",
+            "package": "uuid",
+            "type": "NPM",
+            "version": "3.3.3"
+        },
+        {
+            "license": "Apache-2.0",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/validate-npm-package-license/package.json",
+            "origin": "Kyle E. Mitchell (https://kemitchell.com)",
+            "package": "validate-npm-package-license",
+            "type": "NPM",
+            "version": "3.0.4"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/validate-npm-package-name/package.json",
+            "origin": "zeke",
+            "package": "validate-npm-package-name",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/verror/package.json",
+            "origin": "Unknown",
+            "package": "verror",
+            "type": "NPM",
+            "version": "1.10.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/wcwidth/package.json",
+            "origin": "Tim Oxley",
+            "package": "wcwidth",
+            "type": "NPM",
+            "version": "1.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/which-module/package.json",
+            "origin": "nexdrew",
+            "package": "which-module",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/which/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me)",
+            "package": "which",
+            "type": "NPM",
+            "version": "1.3.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/wide-align/node_modules/string-width/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "string-width",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/wide-align/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org/)",
+            "package": "wide-align",
+            "type": "NPM",
+            "version": "1.1.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/widest-line/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "widest-line",
+            "type": "NPM",
+            "version": "2.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/worker-farm/package.json",
+            "origin": "Unknown",
+            "package": "worker-farm",
+            "type": "NPM",
+            "version": "1.7.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/wrap-ansi/node_modules/string-width/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "string-width",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/wrap-ansi/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "wrap-ansi",
+            "type": "NPM",
+            "version": "2.1.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/wrappy/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "wrappy",
+            "type": "NPM",
+            "version": "1.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/write-file-atomic/package.json",
+            "origin": "Rebecca Turner (http://re-becca.org)",
+            "package": "write-file-atomic",
+            "type": "NPM",
+            "version": "2.4.3"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/xdg-basedir/package.json",
+            "origin": "Sindre Sorhus (sindresorhus.com)",
+            "package": "xdg-basedir",
+            "type": "NPM",
+            "version": "3.0.0"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/xtend/package.json",
+            "origin": "Raynos",
+            "package": "xtend",
+            "type": "NPM",
+            "version": "4.0.1"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/y18n/package.json",
+            "origin": "Ben Coe",
+            "package": "y18n",
+            "type": "NPM",
+            "version": "4.0.0"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/yallist/package.json",
+            "origin": "Isaac Z. Schlueter (http://blog.izs.me/)",
+            "package": "yallist",
+            "type": "NPM",
+            "version": "3.0.3"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/yargs-parser/package.json",
+            "origin": "Ben Coe",
+            "package": "yargs-parser",
+            "type": "NPM",
+            "version": "9.0.2"
+        },
+        {
+            "license": "ISC",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/yargs/node_modules/y18n/package.json",
+            "origin": "Ben Coe",
+            "package": "y18n",
+            "type": "NPM",
+            "version": "3.2.1"
+        },
+        {
+            "license": "MIT",
+            "location": "/usr/local/lib/node_modules/npm/node_modules/yargs/package.json",
+            "origin": "Unknown",
+            "package": "yargs",
+            "type": "NPM",
+            "version": "11.0.0"
+        },
+        {
+            "license": "Artistic-2.0",
+            "location": "/usr/local/lib/node_modules/npm/package.json",
+            "origin": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me)",
+            "package": "npm",
+            "type": "NPM",
+            "version": "6.13.4"
+        }
+    ],
+    "content_type": "npm",
+    "imageDigest": "sha256:c1d840bd199b13ca87775f399cbbf48e416ba08656a3f4d55382931d6987f285"
+}

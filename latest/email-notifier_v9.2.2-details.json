@@ -1,0 +1,41 @@
+[
+    {
+        "analysis_status": "analyzed",
+        "analyzed_at": "2020-02-25T16:41:03Z",
+        "annotations": {},
+        "created_at": "2020-02-25T16:36:59Z",
+        "imageDigest": "sha256:5530568f54888054e0ff72996794947b9ee2387ca97d852e8ba763faa048e701",
+        "image_content": {
+            "metadata": {
+                "arch": "amd64",
+                "distro": "alpine",
+                "distro_version": "3.11.3",
+                "dockerfile_mode": "Actual",
+                "image_size": 295464960,
+                "layer_count": 9
+            }
+        },
+        "image_detail": [
+            {
+                "created_at": "2020-02-25T16:36:59Z",
+                "digest": "sha256:5530568f54888054e0ff72996794947b9ee2387ca97d852e8ba763faa048e701",
+                "dockerfile": "RlJPTSBub2RlOjEyLjE2LjAtYWxwaW5lIGFzIGJ1aWxkZXIKVVNFUiByb290CgpXT1JLRElSIC9vcHQvZW1haWwtbm90aWZpZXIKClJVTiBhcGsgLS1uby1jYWNoZSBhZGQgZ2l0ClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgLXQgYnVpbGQtZGVwZW5kZW5jaWVzIG1ha2UgZ2NjIGcrKyBweXRob24gbGlidG9vbCBhdXRvY29uZiBhdXRvbWFrZSBcCiAgICAmJiBjZCAkKG5wbSByb290IC1nKS9ucG0gXAogICAgJiYgbnBtIGNvbmZpZyBzZXQgdW5zYWZlLXBlcm0gdHJ1ZSBcCiAgICAmJiBucG0gaW5zdGFsbCAtZyBub2RlLWd5cAoKQ09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24qIC9vcHQvZW1haWwtbm90aWZpZXIvClJVTiBucG0gaW5zdGFsbAoKQ09QWSBzcmMgL29wdC9lbWFpbC1ub3RpZmllci9zcmMKQ09QWSBjb25maWcgL29wdC9lbWFpbC1ub3RpZmllci9jb25maWcKQ09QWSBhcHAuanMgL29wdC9lbWFpbC1ub3RpZmllci8KQ09QWSB0ZW1wbGF0ZXMgL29wdC9lbWFpbC1ub3RpZmllci90ZW1wbGF0ZXMKCkZST00gbm9kZToxMi4xNi4wLWFscGluZQoKV09SS0RJUiAvb3B0L2VtYWlsLW5vdGlmaWVyCgpDT1BZIC0tZnJvbT1idWlsZGVyIC9vcHQvZW1haWwtbm90aWZpZXIgLgpSVU4gbnBtIHBydW5lIC0tcHJvZHVjdGlvbgoKIyBDcmVhdGUgZW1wdHkgbG9nIGZpbGUgJiBsaW5rIHN0ZG91dCB0byB0aGUgYXBwbGljYXRpb24gbG9nIGZpbGUKUlVOIG1rZGlyIC4vbG9ncyAmJiB0b3VjaCAuL2xvZ3MvY29tYmluZWQubG9nClJVTiBsbiAtc2YgL2Rldi9zdGRvdXQgLi9sb2dzL2NvbWJpbmVkLmxvZwoKRVhQT1NFIDMwODEKQ01EIG5vZGUgYXBwLmpz",
+                "fulldigest": "localhost:5000/email-notifier@sha256:5530568f54888054e0ff72996794947b9ee2387ca97d852e8ba763faa048e701",
+                "fulltag": "localhost:5000/email-notifier:v9.2.2",
+                "imageDigest": "sha256:5530568f54888054e0ff72996794947b9ee2387ca97d852e8ba763faa048e701",
+                "imageId": "1341ae82bafae9123a96603306f892f26d43d0d031817399681cdc618e997980",
+                "last_updated": "2020-02-25T16:36:59Z",
+                "registry": "localhost:5000",
+                "repo": "email-notifier",
+                "tag": "v9.2.2",
+                "tag_detected_at": "2020-02-25T16:36:59Z",
+                "userId": "admin"
+            }
+        ],
+        "image_status": "active",
+        "image_type": "docker",
+        "last_updated": "2020-02-25T16:41:03Z",
+        "parentDigest": "sha256:5530568f54888054e0ff72996794947b9ee2387ca97d852e8ba763faa048e701",
+        "userId": "admin"
+    }
+]

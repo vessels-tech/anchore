@@ -1,0 +1,41 @@
+[
+    {
+        "analysis_status": "analyzed",
+        "analyzed_at": "2020-02-27T23:30:14Z",
+        "annotations": {},
+        "created_at": "2020-02-27T23:26:07Z",
+        "imageDigest": "sha256:c284efabe020e0abd6d6f4d731b3bf2082733b8212e8aaf87840a23d12099c85",
+        "image_content": {
+            "metadata": {
+                "arch": "amd64",
+                "distro": "alpine",
+                "distro_version": "3.11.3",
+                "dockerfile_mode": "Actual",
+                "image_size": 343070720,
+                "layer_count": 9
+            }
+        },
+        "image_detail": [
+            {
+                "created_at": "2020-02-27T23:26:07Z",
+                "digest": "sha256:c284efabe020e0abd6d6f4d731b3bf2082733b8212e8aaf87840a23d12099c85",
+                "dockerfile": "RlJPTSBub2RlOjEyLjE2LjAtYWxwaW5lIGFzIGJ1aWxkZXIKV09SS0RJUiAvb3B0L2NlbnRyYWwtbGVkZ2VyCgpSVU4gYXBrIGFkZCAtLW5vLWNhY2hlIC10IGJ1aWxkLWRlcGVuZGVuY2llcyBnaXQgbWFrZSBnY2MgZysrIHB5dGhvbiBsaWJ0b29sIGF1dG9jb25mIGF1dG9tYWtlIFwKICAgICYmIGNkICQobnBtIHJvb3QgLWcpL25wbSBcCiAgICAmJiBucG0gY29uZmlnIHNldCB1bnNhZmUtcGVybSB0cnVlIFwKICAgICYmIG5wbSBpbnN0YWxsIC1nIG5vZGUtZ3lwCgpDT1BZIHBhY2thZ2UuanNvbiBwYWNrYWdlLWxvY2suanNvbiogL29wdC9jZW50cmFsLWxlZGdlci8KUlVOIG5wbSBpbnN0YWxsCgpDT1BZIHNyYyAvb3B0L2NlbnRyYWwtbGVkZ2VyL3NyYwpDT1BZIGNvbmZpZyAvb3B0L2NlbnRyYWwtbGVkZ2VyL2NvbmZpZwpDT1BZIG1pZ3JhdGlvbnMgL29wdC9jZW50cmFsLWxlZGdlci9taWdyYXRpb25zCkNPUFkgc2VlZHMgL29wdC9jZW50cmFsLWxlZGdlci9zZWVkcwoKRlJPTSBub2RlOjEyLjE2LjAtYWxwaW5lCldPUktESVIgL29wdC9jZW50cmFsLWxlZGdlcgoKQ09QWSAtLWZyb209YnVpbGRlciAvb3B0L2NlbnRyYWwtbGVkZ2VyIC4KClJVTiBucG0gcHJ1bmUgLS1wcm9kdWN0aW9uCgojIENyZWF0ZSBlbXB0eSBsb2cgZmlsZSAmIGxpbmsgc3Rkb3V0IHRvIHRoZSBhcHBsaWNhdGlvbiBsb2cgZmlsZQpSVU4gbWtkaXIgLi9sb2dzICYmIHRvdWNoIC4vbG9ncy9jb21iaW5lZC5sb2cKUlVOIGxuIC1zZiAvZGV2L3N0ZG91dCAuL2xvZ3MvY29tYmluZWQubG9nCgpFWFBPU0UgMzAwMQpDTUQgWyJucG0iLCAicnVuIiwgInN0YXJ0Il0K",
+                "fulldigest": "localhost:5000/central-ledger@sha256:c284efabe020e0abd6d6f4d731b3bf2082733b8212e8aaf87840a23d12099c85",
+                "fulltag": "localhost:5000/central-ledger:v9.2.2",
+                "imageDigest": "sha256:c284efabe020e0abd6d6f4d731b3bf2082733b8212e8aaf87840a23d12099c85",
+                "imageId": "49746e04f0038058749b4c4959943d29b80c491570a0867f10169c320e9995a2",
+                "last_updated": "2020-02-27T23:26:07Z",
+                "registry": "localhost:5000",
+                "repo": "central-ledger",
+                "tag": "v9.2.2",
+                "tag_detected_at": "2020-02-27T23:26:07Z",
+                "userId": "admin"
+            }
+        ],
+        "image_status": "active",
+        "image_type": "docker",
+        "last_updated": "2020-02-27T23:30:14Z",
+        "parentDigest": "sha256:c284efabe020e0abd6d6f4d731b3bf2082733b8212e8aaf87840a23d12099c85",
+        "userId": "admin"
+    }
+]

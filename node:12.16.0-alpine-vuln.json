@@ -1,0 +1,37 @@
+{
+    "imageDigest": "sha256:aa52cfbaef33dc2f3bc41228072bce75705733d4d90cf086260df15fd7c65319", 
+    "vulnerabilities": [
+        {
+            "feed": "nvdv2", 
+            "feed_group": "nvdv2:cves", 
+            "fix": "None", 
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5, 
+                        "exploitability_score": 10.0, 
+                        "impact_score": 6.4
+                    }, 
+                    "cvss_v3": {
+                        "base_score": 9.8, 
+                        "exploitability_score": 3.9, 
+                        "impact_score": 5.9
+                    }, 
+                    "id": "CVE-2020-8116"
+                }
+            ], 
+            "package": "dot-prop-4.2.0", 
+            "package_cpe": "cpe:/a:-:dot-prop:4.2.0:-:~~~node.js~~", 
+            "package_cpe23": "cpe:2.3:a:-:dot-prop:4.2.0:-:-:-:-:-:-:~~~node.js~~", 
+            "package_name": "dot-prop", 
+            "package_path": "/usr/local/lib/node_modules/npm/node_modules/dot-prop/package.json", 
+            "package_type": "npm", 
+            "package_version": "4.2.0", 
+            "severity": "Critical", 
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-8116", 
+            "vendor_data": [], 
+            "vuln": "CVE-2020-8116"
+        }
+    ], 
+    "vulnerability_type": "all"
+}

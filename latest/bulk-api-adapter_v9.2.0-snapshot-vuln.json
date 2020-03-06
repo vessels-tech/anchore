@@ -1,0 +1,37 @@
+{
+    "imageDigest": "sha256:56da46110c96dfbdc24656c3c7eeb4bfa6095c1298755fbf4b455cca8bc21db6",
+    "vulnerabilities": [
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 2.1,
+                        "exploitability_score": 3.9,
+                        "impact_score": 2.9
+                    },
+                    "cvss_v3": {
+                        "base_score": 5.5,
+                        "exploitability_score": 1.8,
+                        "impact_score": 3.6
+                    },
+                    "id": "CVE-2016-6494"
+                }
+            ],
+            "package": "mongodb-3.3.3",
+            "package_cpe": "cpe:/a:-:mongodb:3.3.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:mongodb:3.3.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "mongodb",
+            "package_path": "/opt/bulk-api-adapter/node_modules/mongodb/package.json",
+            "package_type": "npm",
+            "package_version": "3.3.3",
+            "severity": "Medium",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-6494",
+            "vendor_data": [],
+            "vuln": "CVE-2016-6494"
+        }
+    ],
+    "vulnerability_type": "all"
+}

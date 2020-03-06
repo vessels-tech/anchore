@@ -1,0 +1,37 @@
+{
+    "imageDigest": "sha256:2d3517459e347eb9673e7198b87fb52ba046595ea43ba65b5dbfbcbf192ca3fe",
+    "vulnerabilities": [
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 5.0,
+                        "exploitability_score": 10.0,
+                        "impact_score": 2.9
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2019-20149"
+                }
+            ],
+            "package": "kind-of-6.0.2",
+            "package_cpe": "cpe:/a:-:kind-of:6.0.2:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:kind-of:6.0.2:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "kind-of",
+            "package_path": "/opt/quoting-service/node_modules/kind-of/package.json",
+            "package_type": "npm",
+            "package_version": "6.0.2",
+            "severity": "Medium",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-20149",
+            "vendor_data": [],
+            "vuln": "CVE-2019-20149"
+        }
+    ],
+    "vulnerability_type": "all"
+}

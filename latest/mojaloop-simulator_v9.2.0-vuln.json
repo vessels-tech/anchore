@@ -1,0 +1,750 @@
+{
+    "imageDigest": "sha256:c1d840bd199b13ca87775f399cbbf48e416ba08656a3f4d55382931d6987f285",
+    "vulnerabilities": [
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-3414"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3414",
+            "vendor_data": [],
+            "vuln": "CVE-2015-3414"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-3415"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3415",
+            "vendor_data": [],
+            "vuln": "CVE-2015-3415"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-3416"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3416",
+            "vendor_data": [],
+            "vuln": "CVE-2015-3416"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 10.0,
+                        "exploitability_score": 10.0,
+                        "impact_score": 10.0
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-5895"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5895",
+            "vendor_data": [],
+            "vuln": "CVE-2015-5895"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 6.8,
+                        "exploitability_score": 8.6,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-6607"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "Medium",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-6607",
+            "vendor_data": [],
+            "vuln": "CVE-2015-6607"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 4.6,
+                        "exploitability_score": 3.9,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 5.9,
+                        "exploitability_score": 2.5,
+                        "impact_score": 3.4
+                    },
+                    "id": "CVE-2016-6153"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "Medium",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-6153",
+            "vendor_data": [],
+            "vuln": "CVE-2016-6153"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 6.8,
+                        "exploitability_score": 8.6,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 8.1,
+                        "exploitability_score": 2.2,
+                        "impact_score": 5.9
+                    },
+                    "id": "CVE-2018-20506"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-20506",
+            "vendor_data": [],
+            "vuln": "CVE-2018-20506"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 9.8,
+                        "exploitability_score": 3.9,
+                        "impact_score": 5.9
+                    },
+                    "id": "CVE-2017-10989"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "Critical",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-10989",
+            "vendor_data": [],
+            "vuln": "CVE-2017-10989"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 6.8,
+                        "exploitability_score": 8.6,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 8.1,
+                        "exploitability_score": 2.2,
+                        "impact_score": 5.9
+                    },
+                    "id": "CVE-2018-20346"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-20346",
+            "vendor_data": [],
+            "vuln": "CVE-2018-20346"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 5.0,
+                        "exploitability_score": 10.0,
+                        "impact_score": 2.9
+                    },
+                    "cvss_v3": {
+                        "base_score": 7.5,
+                        "exploitability_score": 3.9,
+                        "impact_score": 3.6
+                    },
+                    "id": "CVE-2018-8740"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-8740",
+            "vendor_data": [],
+            "vuln": "CVE-2018-8740"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 2.1,
+                        "exploitability_score": 3.9,
+                        "impact_score": 2.9
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2019-19645"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "Low",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-19645",
+            "vendor_data": [],
+            "vuln": "CVE-2019-19645"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2019-19646"
+                }
+            ],
+            "package": "sqlite-3.0.1",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.1:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.1:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/lib/log/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.1",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-19646",
+            "vendor_data": [],
+            "vuln": "CVE-2019-19646"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-3414"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3414",
+            "vendor_data": [],
+            "vuln": "CVE-2015-3414"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-3415"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3415",
+            "vendor_data": [],
+            "vuln": "CVE-2015-3415"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-3416"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3416",
+            "vendor_data": [],
+            "vuln": "CVE-2015-3416"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 10.0,
+                        "exploitability_score": 10.0,
+                        "impact_score": 10.0
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-5895"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5895",
+            "vendor_data": [],
+            "vuln": "CVE-2015-5895"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 6.8,
+                        "exploitability_score": 8.6,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2015-6607"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "Medium",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-6607",
+            "vendor_data": [],
+            "vuln": "CVE-2015-6607"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 4.6,
+                        "exploitability_score": 3.9,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 5.9,
+                        "exploitability_score": 2.5,
+                        "impact_score": 3.4
+                    },
+                    "id": "CVE-2016-6153"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "Medium",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-6153",
+            "vendor_data": [],
+            "vuln": "CVE-2016-6153"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 6.8,
+                        "exploitability_score": 8.6,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 8.1,
+                        "exploitability_score": 2.2,
+                        "impact_score": 5.9
+                    },
+                    "id": "CVE-2018-20506"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-20506",
+            "vendor_data": [],
+            "vuln": "CVE-2018-20506"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 9.8,
+                        "exploitability_score": 3.9,
+                        "impact_score": 5.9
+                    },
+                    "id": "CVE-2017-10989"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "Critical",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-10989",
+            "vendor_data": [],
+            "vuln": "CVE-2017-10989"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 6.8,
+                        "exploitability_score": 8.6,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": 8.1,
+                        "exploitability_score": 2.2,
+                        "impact_score": 5.9
+                    },
+                    "id": "CVE-2018-20346"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-20346",
+            "vendor_data": [],
+            "vuln": "CVE-2018-20346"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 5.0,
+                        "exploitability_score": 10.0,
+                        "impact_score": 2.9
+                    },
+                    "cvss_v3": {
+                        "base_score": 7.5,
+                        "exploitability_score": 3.9,
+                        "impact_score": 3.6
+                    },
+                    "id": "CVE-2018-8740"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-8740",
+            "vendor_data": [],
+            "vuln": "CVE-2018-8740"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 2.1,
+                        "exploitability_score": 3.9,
+                        "impact_score": 2.9
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2019-19645"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "Low",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-19645",
+            "vendor_data": [],
+            "vuln": "CVE-2019-19645"
+        },
+        {
+            "feed": "nvdv2",
+            "feed_group": "nvdv2:cves",
+            "fix": "None",
+            "nvd_data": [
+                {
+                    "cvss_v2": {
+                        "base_score": 7.5,
+                        "exploitability_score": 10.0,
+                        "impact_score": 6.4
+                    },
+                    "cvss_v3": {
+                        "base_score": -1.0,
+                        "exploitability_score": -1.0,
+                        "impact_score": -1.0
+                    },
+                    "id": "CVE-2019-19646"
+                }
+            ],
+            "package": "sqlite-3.0.3",
+            "package_cpe": "cpe:/a:-:sqlite:3.0.3:-:~~~node.js~~",
+            "package_cpe23": "cpe:2.3:a:-:sqlite:3.0.3:-:-:-:-:-:-:~~~node.js~~",
+            "package_name": "sqlite",
+            "package_path": "/src/node_modules/sqlite/package.json",
+            "package_type": "npm",
+            "package_version": "3.0.3",
+            "severity": "High",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-19646",
+            "vendor_data": [],
+            "vuln": "CVE-2019-19646"
+        }
+    ],
+    "vulnerability_type": "all"
+}

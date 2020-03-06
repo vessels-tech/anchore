@@ -1,0 +1,134 @@
+{
+    "content": [
+        {
+            "license": "GPL-2.0-only",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "alpine-baselayout",
+            "size": "413696",
+            "type": "APKG",
+            "version": "3.2.0"
+        },
+        {
+            "license": "MIT",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "alpine-keys",
+            "size": "98304",
+            "type": "APKG",
+            "version": "2.1"
+        },
+        {
+            "license": "GPL2",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "apk-tools",
+            "size": "262144",
+            "type": "APKG",
+            "version": "2.10.4"
+        },
+        {
+            "license": "GPL-2.0-only",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "busybox",
+            "size": "962560",
+            "type": "APKG",
+            "version": "1.31.1"
+        },
+        {
+            "license": "MPL-2.0 GPL-2.0-or-later",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "ca-certificates-cacert",
+            "size": "245760",
+            "type": "APKG",
+            "version": "20191127"
+        },
+        {
+            "license": "BSD",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "libc-utils",
+            "size": "4096",
+            "type": "APKG",
+            "version": "0.7.2"
+        },
+        {
+            "license": "OpenSSL",
+            "origin": "Timo Teras <timo.teras@iki.fi>",
+            "package": "libcrypto1.1",
+            "size": "2748416",
+            "type": "APKG",
+            "version": "1.1.1d"
+        },
+        {
+            "license": "GPL LGPL",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "libgcc",
+            "size": "90112",
+            "type": "APKG",
+            "version": "9.2.0"
+        },
+        {
+            "license": "OpenSSL",
+            "origin": "Timo Teras <timo.teras@iki.fi>",
+            "package": "libssl1.1",
+            "size": "536576",
+            "type": "APKG",
+            "version": "1.1.1d"
+        },
+        {
+            "license": "GPL LGPL",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "libstdc++",
+            "size": "1671168",
+            "type": "APKG",
+            "version": "9.2.0"
+        },
+        {
+            "license": "ISC",
+            "origin": "N/A",
+            "package": "libtls-standalone",
+            "size": "110592",
+            "type": "APKG",
+            "version": "2.9.1"
+        },
+        {
+            "license": "MIT",
+            "origin": "Timo Ter\u00e4s <timo.teras@iki.fi>",
+            "package": "musl",
+            "size": "610304",
+            "type": "APKG",
+            "version": "1.1.24"
+        },
+        {
+            "license": "MIT BSD GPL2+",
+            "origin": "Timo Ter\u00e4s <timo.teras@iki.fi>",
+            "package": "musl-utils",
+            "size": "147456",
+            "type": "APKG",
+            "version": "1.1.24"
+        },
+        {
+            "license": "GPL-2.0-only",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "scanelf",
+            "size": "94208",
+            "type": "APKG",
+            "version": "1.2.4"
+        },
+        {
+            "license": "GPL-2.0-only",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "ssl_client",
+            "size": "28672",
+            "type": "APKG",
+            "version": "1.31.1"
+        },
+        {
+            "license": "Zlib",
+            "origin": "Natanael Copa <ncopa@alpinelinux.org>",
+            "package": "zlib",
+            "size": "110592",
+            "type": "APKG",
+            "version": "1.2.11"
+        }
+    ],
+    "content_type": "os",
+    "imageDigest": "sha256:308ee544ab25d847eede147541bbeb10c06e6fe53354da1ab0ea1e772b51eaee"
+}
