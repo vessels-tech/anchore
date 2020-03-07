@@ -13,7 +13,7 @@ const fs = require('fs')
 
 
 function getRowsAndFormat(fileName) {
-  // TODO: replace these with better getPath tool which can get nested
+  // TODO: replace these with better getPath tool which can get nested and handle errors more gracefully
   const baseFile = fs.readFileSync(fileName)
   const base = JSON.parse(baseFile.toString())
 
