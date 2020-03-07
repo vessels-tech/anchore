@@ -40,6 +40,43 @@ function arrayEquals(arr1, arr2) {
   return false
 }
 
+
+/**
+ * Find the LEFT difference between 2 arrays
+ * 
+ * If value is found in both arrays, it will be removed.
+ * If a value is found in arr1 (left), it will be returned
+ * If a value is in arr2, but not arr 1 it will be _ignored_
+ * 
+ * Example:
+ *  arraySubtract([1, 2, 3, 4, 5], [1, 3, 5, 6], (row) => row)
+ *  returns: [2, 4]
+ */
+function arraySubtract(arr1, arr2, uniqueAccessorFunc) {
+  const finalArray = []
+
+  const arr1Dict = {}
+  arr1.forEach(row => {
+    const key = uniqueAccessorFunc(row)
+    arr1Dict[key] = row
+  })
+
+  const arr2Dict = {}
+  arr2.forEach(row => {
+    const key = uniqueAccessorFunc(row)
+    arr2Dict[key] = row
+  })
+
+  Object.keys(arr1Dict).forEach(key => {
+    //if not found in arr2, then it is the difference!
+    if (!arr2Dict[key]) {
+      finalArray.push(arr1Dict[key])
+    }
+  })
+
+  return finalArray
+}
+
 function main() {
   if (process.argv.length !== 4) {
     console.warn('Usage: ./anchore-result-diff.js <base-image-results.json> <derived-image-results.json>')
@@ -61,6 +98,14 @@ function main() {
     process.exit(1)
     return;
   }
+
+  const checkOutputIndex = baseFormat.indexOf('Check_Output')
+  const triggerIdIndex = baseFormat.indexOf('Trigger_Id')
+
+  // Find the rows present in the derived image that aren't in the base image
+  const derivedRemainingRows = arraySubtract(derivedRows, baseRows, (row) => `${row[triggerIdIndex]}`)
+
+  console.log(JSON.stringify(derivedRemainingRows, null, 2))
 
   process.exit(0)
 }
