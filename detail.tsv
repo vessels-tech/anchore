@@ -2,7 +2,7 @@ Image Digest: sha256:aa52cfbaef33dc2f3bc41228072bce75705733d4d90cf086260df15fd7c
 Full Tag: docker.io/node:12.16.0-alpine
 Image ID: 466593119d17c47c470d8c5a5f7aca330bdb98f2bd5ad070e54b2cfacdabff07
 Status: fail
-Last Eval: 2020-03-07T02:35:13Z
+Last Eval: 2020-03-07T02:59:05Z
 Policy ID: anchore_cis_1.13.0_base
 Final Action: stop
 Final Action Reason: policy_evaluation

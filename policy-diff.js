@@ -3,10 +3,12 @@
 const fs = require('fs')
 
 /**
- * This file generates an anchore-cli compatible policy.json file.
+ * This tool diffs the output of 2 anchore-cli output files, in order to compare issues found
+ * This is useful for analysing the vulnerabilities introduced by a given Dockerfile compared to
+ * it's base image
  * 
  * usage: 
- *    ./mojaloop-policy-generator.js <full path of desired output file>
+ *    ./policy_diff.js <base-image> <derived-image>
  * 
  * for example:
  *    ./mojaloop-policy-generator.js /tmp/mojaloop-policy.json

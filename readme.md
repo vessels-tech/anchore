@@ -38,9 +38,11 @@ anchore-cli --json evaluate check ${IMAGE} --detail > ${IMAGE//\//_}-policy.json
 ```bash
 curl ${POLICY_PATH} > /tmp/mojaloop-policy-bundle.json
 # anchore-cli policy add /tmp/mojaloop_policy_bundle.json
-anchore-cli policy del mojaloop-policy
 anchore-cli policy add ./mojaloop-policy-bundle.json
 anchore-cli policy activate mojaloop-policy
 
+
+anchore-cli policy activate anchore_cis_1.13.0_base
+anchore-cli policy del mojaloop-policy
 
 ```
