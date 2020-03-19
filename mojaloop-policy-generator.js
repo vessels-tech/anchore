@@ -14,7 +14,7 @@ const fs = require('fs')
  * We keep this in a .js file as it allows us to better manage the complicated policy file with comments, etc 
  */
 
-if (process.argv.length < 2) {
+if (process.argv.length !== 3) {
   console.warn(`Usage: ./mojaloop-policy.js <full path of desired output file>`)
   process.exit(1)
 }
@@ -22,6 +22,10 @@ if (process.argv.length < 2) {
 const outputPath = process.argv[2]
 console.log(`Exporting policy path: ${outputPath}`)
 
+/**
+ * Edit the policy inline here.
+ * Based off of the Docker CIS 1.13.0 best practices
+ */
 const policy = {
   id: 'mojaloop-default',
   name: "anchore_cis_1.13.0_base",

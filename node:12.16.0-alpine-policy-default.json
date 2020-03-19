@@ -1279,6 +1279,17 @@
                                             [
                                                 "466593119d17c47c470d8c5a5f7aca330bdb98f2bd5ad070e54b2cfacdabff07", 
                                                 "docker.io/node:12.16.0-alpine", 
+                                                "CVE-2020-8116+dot-prop2", 
+                                                "vulnerabilities", 
+                                                "package", 
+                                                "CRITICAL Vulnerability found in non-os package type (npm) - /usr/local/lib/node_modules/npm/node_modules/dot-prop/package.json (CVE-2020-8116 - https://nvd.nist.gov/vuln/detail/CVE-2020-8116)", 
+                                                "stop", 
+                                                false, 
+                                                "4f3bdc23-175b-4582-8c7d-3a7d8fa32a12"
+                                            ], 
+                                            [
+                                                "466593119d17c47c470d8c5a5f7aca330bdb98f2bd5ad070e54b2cfacdabff07", 
+                                                "docker.io/node:12.16.0-alpine", 
                                                 "f8f40a3207d0b66c0c71e77f2adae7dc", 
                                                 "dockerfile", 
                                                 "instruction", 

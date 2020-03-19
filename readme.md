@@ -37,10 +37,28 @@ anchore-cli --json evaluate check ${IMAGE} --detail > ${IMAGE//\//_}-policy.json
 ## Configuring policies
 ```bash
 curl ${POLICY_PATH} > /tmp/mojaloop-policy-bundle.json
-# anchore-cli policy add /tmp/mojaloop_policy_bundle.json
-anchore-cli policy add ./mojaloop-policy-bundle.json
+anchore-cli policy add /tmp/mojaloop_policy_bundle.json
+anchore-cli policy activate mojaloop-policy
+```
+
+
+## CI Evaluation Pseudocode
+```bash
+# TODO clone mojaloop/ci-config to /tmp/ci-config
+# TODO copy the daily base image eval file to /tmp/node:12.16.0-alpine-eval.json
+
+# Generate the anchore policy document
+./mojaloop-policy-generator.js /tmp/mojaloop-policy-bundle.json
+anchore-cli policy add /tmp/mojaloop-policy-bundle.json
 anchore-cli policy activate mojaloop-policy
 
+
+# TODO: run the image scan, result with a file called ${CIRCLE_REPO...}-eval.json
+
+# Compare the 2 eval files. If there are issues in the derived, but not the base, then we have a problem
+./anchore-result-diff.js /tmp/node:12.16.0-alpine-eval.json ${CIRCLE_REPO...}-eval.json
+
+# TODO: if failed (regardless of the anchore-result-diff results) stop the build, alert on slack!
 
 anchore-cli policy activate anchore_cis_1.13.0_base
 anchore-cli policy del mojaloop-policy
